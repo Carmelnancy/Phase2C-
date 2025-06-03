@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Phase2HexawareC#\\Phase2Soln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3536D082-7C90-4654-A076-C8FD42162544}|Phase2\\Phase2Case5.csproj|c:\\phase2hexawarec#\\phase2soln\\phase2\\phase2case5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3536D082-7C90-4654-A076-C8FD42162544}|Phase2\\Phase2Case5.csproj|solutionrelative:phase2\\phase2case5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3536D082-7C90-4654-A076-C8FD42162544}|Phase2\\Phase2Case5.csproj|c:\\phase2hexawarec#\\phase2soln\\phase2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3536D082-7C90-4654-A076-C8FD42162544}|Phase2\\Phase2Case5.csproj|solutionrelative:phase2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3536D082-7C90-4654-A076-C8FD42162544}|Phase2\\Phase2Case5.csproj|c:\\phase2hexawarec#\\phase2soln\\phase2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3536D082-7C90-4654-A076-C8FD42162544}|Phase2\\Phase2Case5.csproj|solutionrelative:phase2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480F287D-09B0-4FA0-9943-7FD50FAC0370}|Phase2CaseOop\\Phase2Case8.csproj|c:\\phase2hexawarec#\\phase2soln\\phase2caseoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480F287D-09B0-4FA0-9943-7FD50FAC0370}|Phase2CaseOop\\Phase2Case8.csproj|solutionrelative:phase2caseoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480F287D-09B0-4FA0-9943-7FD50FAC0370}|Phase2CaseOop\\Phase2Case8.csproj|c:\\phase2hexawarec#\\phase2soln\\phase2caseoop\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480F287D-09B0-4FA0-9943-7FD50FAC0370}|Phase2CaseOop\\Phase2Case8.csproj|solutionrelative:phase2caseoop\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480F287D-09B0-4FA0-9943-7FD50FAC0370}|Phase2CaseOop\\Phase2Case8.csproj|c:\\phase2hexawarec#\\phase2soln\\phase2caseoop\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480F287D-09B0-4FA0-9943-7FD50FAC0370}|Phase2CaseOop\\Phase2Case8.csproj|solutionrelative:phase2caseoop\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480F287D-09B0-4FA0-9943-7FD50FAC0370}|Phase2CaseOop\\Phase2Case8.csproj|c:\\phase2hexawarec#\\phase2soln\\phase2caseoop\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480F287D-09B0-4FA0-9943-7FD50FAC0370}|Phase2CaseOop\\Phase2Case8.csproj|solutionrelative:phase2caseoop\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480F287D-09B0-4FA0-9943-7FD50FAC0370}|Phase2CaseOop\\Phase2Case8.csproj|c:\\phase2hexawarec#\\phase2soln\\phase2caseoop\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480F287D-09B0-4FA0-9943-7FD50FAC0370}|Phase2CaseOop\\Phase2Case8.csproj|solutionrelative:phase2caseoop\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Phase2Case5",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\Phase2Soln\\Phase2\\Phase2Case5.csproj",
+              "RelativeDocumentMoniker": "Phase2\\Phase2Case5.csproj",
+              "ToolTip": "C:\\Phase2HexawareC#\\Phase2Soln\\Phase2\\Phase2Case5.csproj",
+              "RelativeToolTip": "Phase2\\Phase2Case5.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T12:41:49.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\Phase2Soln\\Phase2\\Student.cs",
+              "RelativeDocumentMoniker": "Phase2\\Student.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\Phase2Soln\\Phase2\\Student.cs",
+              "RelativeToolTip": "Phase2\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:41:26.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\Phase2Soln\\Phase2\\Program.cs",
+              "RelativeDocumentMoniker": "Phase2\\Program.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\Phase2Soln\\Phase2\\Program.cs",
+              "RelativeToolTip": "Phase2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:41:08.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\Phase2Soln\\Phase2CaseOop\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "Phase2CaseOop\\FullTimeEmployee.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\Phase2Soln\\Phase2CaseOop\\FullTimeEmployee.cs",
+              "RelativeToolTip": "Phase2CaseOop\\FullTimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T03:33:08.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\Phase2Soln\\Phase2CaseOop\\Program.cs",
+              "RelativeDocumentMoniker": "Phase2CaseOop\\Program.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\Phase2Soln\\Phase2CaseOop\\Program.cs",
+              "RelativeToolTip": "Phase2CaseOop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:57:18.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\Phase2Soln\\Phase2CaseOop\\Employee.cs",
+              "RelativeDocumentMoniker": "Phase2CaseOop\\Employee.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\Phase2Soln\\Phase2CaseOop\\Employee.cs",
+              "RelativeToolTip": "Phase2CaseOop\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:13:16.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\Phase2Soln\\Phase2CaseOop\\PartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "Phase2CaseOop\\PartTimeEmployee.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\Phase2Soln\\Phase2CaseOop\\PartTimeEmployee.cs",
+              "RelativeToolTip": "Phase2CaseOop\\PartTimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T03:37:30.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\Phase2Soln\\Phase2CaseOop\\IEmployee.cs",
+              "RelativeDocumentMoniker": "Phase2CaseOop\\IEmployee.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\Phase2Soln\\Phase2CaseOop\\IEmployee.cs",
+              "RelativeToolTip": "Phase2CaseOop\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T03:22:40.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

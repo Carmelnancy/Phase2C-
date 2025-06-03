@@ -1,0 +1,14 @@
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2\bin\Debug\net8.0\Phase2.exe
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2\bin\Debug\net8.0\Phase2.deps.json
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2\bin\Debug\net8.0\Phase2.runtimeconfig.json
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2\bin\Debug\net8.0\Phase2.dll
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2\bin\Debug\net8.0\Phase2.pdb
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2\obj\Debug\net8.0\Phase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2\obj\Debug\net8.0\Phase2.AssemblyInfoInputs.cache
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2\obj\Debug\net8.0\Phase2.AssemblyInfo.cs
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2\obj\Debug\net8.0\Phase2.csproj.CoreCompileInputs.cache
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2\obj\Debug\net8.0\Phase2.dll
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2\obj\Debug\net8.0\refint\Phase2.dll
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2\obj\Debug\net8.0\Phase2.pdb
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2\obj\Debug\net8.0\Phase2.genruntimeconfig.cache
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2\obj\Debug\net8.0\ref\Phase2.dll

@@ -1,0 +1,14 @@
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2CaseOop\obj\Debug\net8.0\Phase2CaseOop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2CaseOop\obj\Debug\net8.0\Phase2CaseOop.AssemblyInfoInputs.cache
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2CaseOop\obj\Debug\net8.0\Phase2CaseOop.AssemblyInfo.cs
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2CaseOop\obj\Debug\net8.0\Phase2CaseOop.csproj.CoreCompileInputs.cache
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2CaseOop\bin\Debug\net8.0\Phase2CaseOop.exe
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2CaseOop\bin\Debug\net8.0\Phase2CaseOop.deps.json
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2CaseOop\bin\Debug\net8.0\Phase2CaseOop.runtimeconfig.json
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2CaseOop\bin\Debug\net8.0\Phase2CaseOop.dll
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2CaseOop\bin\Debug\net8.0\Phase2CaseOop.pdb
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2CaseOop\obj\Debug\net8.0\Phase2CaseOop.dll
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2CaseOop\obj\Debug\net8.0\refint\Phase2CaseOop.dll
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2CaseOop\obj\Debug\net8.0\Phase2CaseOop.pdb
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2CaseOop\obj\Debug\net8.0\Phase2CaseOop.genruntimeconfig.cache
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2CaseOop\obj\Debug\net8.0\ref\Phase2CaseOop.dll

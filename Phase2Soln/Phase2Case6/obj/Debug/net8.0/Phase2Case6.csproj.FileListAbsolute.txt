@@ -1,0 +1,14 @@
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2Case6\obj\Debug\net8.0\Phase2Case6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2Case6\obj\Debug\net8.0\Phase2Case6.AssemblyInfoInputs.cache
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2Case6\obj\Debug\net8.0\Phase2Case6.AssemblyInfo.cs
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2Case6\obj\Debug\net8.0\Phase2Case6.csproj.CoreCompileInputs.cache
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2Case6\bin\Debug\net8.0\Phase2Case6.exe
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2Case6\bin\Debug\net8.0\Phase2Case6.deps.json
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2Case6\bin\Debug\net8.0\Phase2Case6.runtimeconfig.json
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2Case6\bin\Debug\net8.0\Phase2Case6.dll
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2Case6\bin\Debug\net8.0\Phase2Case6.pdb
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2Case6\obj\Debug\net8.0\Phase2Case6.dll
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2Case6\obj\Debug\net8.0\refint\Phase2Case6.dll
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2Case6\obj\Debug\net8.0\Phase2Case6.pdb
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2Case6\obj\Debug\net8.0\Phase2Case6.genruntimeconfig.cache
+C:\Users\CARMEL NANCY\source\repos\Phase2Soln\Phase2Case6\obj\Debug\net8.0\ref\Phase2Case6.dll
