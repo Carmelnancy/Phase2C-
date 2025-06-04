@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|C:\\Phase2HexawareC#\\LinqCodeTemplate\\linqcodetemplate\\problem14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|solutionrelative:linqcodetemplate\\problem14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|C:\\Phase2HexawareC#\\LinqCodeTemplate\\linqcodetemplate\\problem10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|solutionrelative:linqcodetemplate\\problem10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|C:\\Phase2HexawareC#\\LinqCodeTemplate\\linqcodetemplate\\problem9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|solutionrelative:linqcodetemplate\\problem9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|C:\\Phase2HexawareC#\\LinqCodeTemplate\\linqcodetemplate\\problem11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|solutionrelative:linqcodetemplate\\problem11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|C:\\Phase2HexawareC#\\LinqCodeTemplate\\linqcodetemplate\\problem12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|solutionrelative:linqcodetemplate\\problem12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|C:\\Phase2HexawareC#\\LinqCodeTemplate\\linqcodetemplate\\problem13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|solutionrelative:linqcodetemplate\\problem13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|C:\\Phase2HexawareC#\\LinqCodeTemplate\\linqcodetemplate\\problem15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|solutionrelative:linqcodetemplate\\problem15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|C:\\Phase2HexawareC#\\LinqCodeTemplate\\linqcodetemplate\\problem6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|solutionrelative:linqcodetemplate\\problem6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|C:\\Phase2HexawareC#\\LinqCodeTemplate\\linqcodetemplate\\problem7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|solutionrelative:linqcodetemplate\\problem7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|C:\\Phase2HexawareC#\\LinqCodeTemplate\\linqcodetemplate\\problem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|solutionrelative:linqcodetemplate\\problem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|C:\\Phase2HexawareC#\\LinqCodeTemplate\\linqcodetemplate\\problem8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|solutionrelative:linqcodetemplate\\problem8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|C:\\Phase2HexawareC#\\LinqCodeTemplate\\linqcodetemplate\\problem5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|solutionrelative:linqcodetemplate\\problem5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|C:\\Phase2HexawareC#\\LinqCodeTemplate\\linqcodetemplate\\problem4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|solutionrelative:linqcodetemplate\\problem4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|C:\\Phase2HexawareC#\\LinqCodeTemplate\\linqcodetemplate\\problem3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|solutionrelative:linqcodetemplate\\problem3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|C:\\Phase2HexawareC#\\LinqCodeTemplate\\linqcodetemplate\\problem2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|solutionrelative:linqcodetemplate\\problem2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|C:\\Phase2HexawareC#\\LinqCodeTemplate\\linqcodetemplate\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|LinqCodeTemplate\\LinqCodeTemplate.csproj|solutionrelative:linqcodetemplate\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem14.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem14.cs",
+              "RelativeDocumentMoniker": "LinqCodeTemplate\\Problem14.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem14.cs",
+              "RelativeToolTip": "LinqCodeTemplate\\Problem14.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:04:40.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Problem15.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem15.cs",
+              "RelativeDocumentMoniker": "LinqCodeTemplate\\Problem15.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem15.cs",
+              "RelativeToolTip": "LinqCodeTemplate\\Problem15.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wA8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:05:01.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Problem7.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem7.cs",
+              "RelativeDocumentMoniker": "LinqCodeTemplate\\Problem7.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem7.cs",
+              "RelativeToolTip": "LinqCodeTemplate\\Problem7.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:28:34.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Problem6.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem6.cs",
+              "RelativeDocumentMoniker": "LinqCodeTemplate\\Problem6.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem6.cs",
+              "RelativeToolTip": "LinqCodeTemplate\\Problem6.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:28:15.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Problem13.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem13.cs",
+              "RelativeDocumentMoniker": "LinqCodeTemplate\\Problem13.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem13.cs",
+              "RelativeToolTip": "LinqCodeTemplate\\Problem13.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:04:24.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Problem12.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem12.cs",
+              "RelativeDocumentMoniker": "LinqCodeTemplate\\Problem12.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem12.cs",
+              "RelativeToolTip": "LinqCodeTemplate\\Problem12.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:04:01.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Problem11.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem11.cs",
+              "RelativeDocumentMoniker": "LinqCodeTemplate\\Problem11.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem11.cs",
+              "RelativeToolTip": "LinqCodeTemplate\\Problem11.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:03:41.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Problem10.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem10.cs",
+              "RelativeDocumentMoniker": "LinqCodeTemplate\\Problem10.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem10.cs",
+              "RelativeToolTip": "LinqCodeTemplate\\Problem10.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:29:29.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Problem9.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem9.cs",
+              "RelativeDocumentMoniker": "LinqCodeTemplate\\Problem9.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem9.cs",
+              "RelativeToolTip": "LinqCodeTemplate\\Problem9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:29:10.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Problem8.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem8.cs",
+              "RelativeDocumentMoniker": "LinqCodeTemplate\\Problem8.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem8.cs",
+              "RelativeToolTip": "LinqCodeTemplate\\Problem8.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:28:51.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Problem1.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem1.cs",
+              "RelativeDocumentMoniker": "LinqCodeTemplate\\Problem1.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem1.cs",
+              "RelativeToolTip": "LinqCodeTemplate\\Problem1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T05:09:44.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Problem4.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem4.cs",
+              "RelativeDocumentMoniker": "LinqCodeTemplate\\Problem4.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem4.cs",
+              "RelativeToolTip": "LinqCodeTemplate\\Problem4.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:04:56.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Problem5.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem5.cs",
+              "RelativeDocumentMoniker": "LinqCodeTemplate\\Problem5.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem5.cs",
+              "RelativeToolTip": "LinqCodeTemplate\\Problem5.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:27:58.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Problem3.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem3.cs",
+              "RelativeDocumentMoniker": "LinqCodeTemplate\\Problem3.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem3.cs",
+              "RelativeToolTip": "LinqCodeTemplate\\Problem3.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:04:15.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Problem2.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem2.cs",
+              "RelativeDocumentMoniker": "LinqCodeTemplate\\Problem2.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Problem2.cs",
+              "RelativeToolTip": "LinqCodeTemplate\\Problem2.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:04:00.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Product.cs",
+              "RelativeDocumentMoniker": "LinqCodeTemplate\\Product.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\LinqCodeTemplate\\LinqCodeTemplate\\Product.cs",
+              "RelativeToolTip": "LinqCodeTemplate\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T05:08:51.843Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

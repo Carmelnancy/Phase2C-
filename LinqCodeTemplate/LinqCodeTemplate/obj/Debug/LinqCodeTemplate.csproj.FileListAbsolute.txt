@@ -1,0 +1,24 @@
+D:\TFS-CDC\Training Content\MS.Net\LINQ\Lab Based Assignments\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\LinqCodeTemplate.csproj.AssemblyReference.cache
+D:\TFS-CDC\Training Content\MS.Net\LINQ\Lab Based Assignments\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\LinqCodeTemplate.csproj.SuggestedBindingRedirects.cache
+D:\TFS-CDC\Training Content\MS.Net\LINQ\Lab Based Assignments\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\LinqCodeTemplate.csproj.CoreCompileInputs.cache
+D:\STS-CDC\Training Content\MS.Net\LINQ\Lab Based Assignments\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\LinqCodeTemplate.exe.config
+D:\STS-CDC\Training Content\MS.Net\LINQ\Lab Based Assignments\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\LinqCodeTemplate.exe
+D:\STS-CDC\Training Content\MS.Net\LINQ\Lab Based Assignments\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\LinqCodeTemplate.pdb
+D:\STS-CDC\Training Content\MS.Net\LINQ\Lab Based Assignments\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\LinqCodeTemplate.csproj.AssemblyReference.cache
+D:\STS-CDC\Training Content\MS.Net\LINQ\Lab Based Assignments\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\LinqCodeTemplate.csproj.CoreCompileInputs.cache
+D:\STS-CDC\Training Content\MS.Net\LINQ\Lab Based Assignments\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\LinqCodeTemplate.exe
+D:\STS-CDC\Training Content\MS.Net\LINQ\Lab Based Assignments\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\LinqCodeTemplate.pdb
+D:\Code Empower\Training Content\Back-End\C#\Case Study\Linq Case Study-CodeTemplate\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\LinqCodeTemplate.exe.config
+D:\Code Empower\Training Content\Back-End\C#\Case Study\Linq Case Study-CodeTemplate\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\LinqCodeTemplate.exe
+D:\Code Empower\Training Content\Back-End\C#\Case Study\Linq Case Study-CodeTemplate\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\LinqCodeTemplate.pdb
+D:\Code Empower\Training Content\Back-End\C#\Case Study\Linq Case Study-CodeTemplate\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\LinqCodeTemplate.csproj.AssemblyReference.cache
+D:\Code Empower\Training Content\Back-End\C#\Case Study\Linq Case Study-CodeTemplate\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\LinqCodeTemplate.csproj.CoreCompileInputs.cache
+D:\Code Empower\Training Content\Back-End\C#\Case Study\Linq Case Study-CodeTemplate\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\LinqCodeTemplate.exe
+D:\Code Empower\Training Content\Back-End\C#\Case Study\Linq Case Study-CodeTemplate\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\LinqCodeTemplate.pdb
+C:\Users\CARMEL NANCY\Downloads\LinqCodeTemplate\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\LinqCodeTemplate.exe.config
+C:\Users\CARMEL NANCY\Downloads\LinqCodeTemplate\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\LinqCodeTemplate.exe
+C:\Users\CARMEL NANCY\Downloads\LinqCodeTemplate\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\LinqCodeTemplate.pdb
+C:\Users\CARMEL NANCY\Downloads\LinqCodeTemplate\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\LinqCodeTemplate.csproj.AssemblyReference.cache
+C:\Users\CARMEL NANCY\Downloads\LinqCodeTemplate\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\LinqCodeTemplate.csproj.CoreCompileInputs.cache
+C:\Users\CARMEL NANCY\Downloads\LinqCodeTemplate\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\LinqCodeTemplate.exe
+C:\Users\CARMEL NANCY\Downloads\LinqCodeTemplate\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\LinqCodeTemplate.pdb
