@@ -1,0 +1,11 @@
+C:\Users\CARMEL NANCY\source\repos\MockDemoProjext\ProDAL\bin\Debug\net8.0\StudentDAL.deps.json
+C:\Users\CARMEL NANCY\source\repos\MockDemoProjext\ProDAL\bin\Debug\net8.0\StudentDAL.dll
+C:\Users\CARMEL NANCY\source\repos\MockDemoProjext\ProDAL\bin\Debug\net8.0\StudentDAL.pdb
+C:\Users\CARMEL NANCY\source\repos\MockDemoProjext\ProDAL\obj\Debug\net8.0\StudentDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARMEL NANCY\source\repos\MockDemoProjext\ProDAL\obj\Debug\net8.0\StudentDAL.AssemblyInfoInputs.cache
+C:\Users\CARMEL NANCY\source\repos\MockDemoProjext\ProDAL\obj\Debug\net8.0\StudentDAL.AssemblyInfo.cs
+C:\Users\CARMEL NANCY\source\repos\MockDemoProjext\ProDAL\obj\Debug\net8.0\StudentDAL.csproj.CoreCompileInputs.cache
+C:\Users\CARMEL NANCY\source\repos\MockDemoProjext\ProDAL\obj\Debug\net8.0\StudentDAL.dll
+C:\Users\CARMEL NANCY\source\repos\MockDemoProjext\ProDAL\obj\Debug\net8.0\refint\StudentDAL.dll
+C:\Users\CARMEL NANCY\source\repos\MockDemoProjext\ProDAL\obj\Debug\net8.0\StudentDAL.pdb
+C:\Users\CARMEL NANCY\source\repos\MockDemoProjext\ProDAL\obj\Debug\net8.0\ref\StudentDAL.dll
