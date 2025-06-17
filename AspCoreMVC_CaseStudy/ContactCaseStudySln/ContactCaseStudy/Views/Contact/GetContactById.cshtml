@@ -1,0 +1,19 @@
+﻿@model ContactCaseStudy.Models.ContactInfo
+<head>
+    <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css" />
+</head>
+<body>
+<h2>Contact Details</h2>
+
+<table class="table">
+    <tr><td>Contact ID:</td><td>@Model.ContactId</td></tr>
+    <tr><td>First Name:</td><td>@Model.FirstName</td></tr>
+    <tr><td>Last Name:</td><td>@Model.LastName</td></tr>
+    <tr><td>Company:</td><td>@Model.CompanyName</td></tr>
+    <tr><td>Email:</td><td>@Model.EmailId</td></tr>
+    <tr><td>Mobile:</td><td>@Model.MobileNo</td></tr>
+    <tr><td>Designation:</td><td>@Model.Designation</td></tr>
+</table>
+<a asp-action="ShowContacts" class="btn btn-secondary">Back to List</a>
+
+</body>

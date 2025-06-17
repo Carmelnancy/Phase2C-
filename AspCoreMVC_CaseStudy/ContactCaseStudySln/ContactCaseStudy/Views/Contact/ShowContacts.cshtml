@@ -1,0 +1,40 @@
+﻿@model List<ContactCaseStudy.Models.ContactInfo>
+<head>
+    <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css" />
+</head>
+<body>
+<h2>Contact List</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Contact ID</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Company</th>
+            <th>Email</th>
+            <th>Mobile</th>
+            <th>Designation</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var contact in Model)
+        {
+            <tr>
+                <td>@contact.ContactId</td>
+                <td>@contact.FirstName</td>
+                <td>@contact.LastName</td>
+                <td>@contact.CompanyName</td>
+                <td>@contact.EmailId</td>
+                <td>@contact.MobileNo</td>
+                <td>@contact.Designation</td>
+                <td>
+                    <a asp-action="GetContactById" asp-route-id="@contact.ContactId">View</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@* <a class="btn btn-primary" asp-action="AddContact">Add New Contact</a> *@
+<a asp-action="AddContact" asp-controller="Contact">Add New Contact</a>
+</body>
