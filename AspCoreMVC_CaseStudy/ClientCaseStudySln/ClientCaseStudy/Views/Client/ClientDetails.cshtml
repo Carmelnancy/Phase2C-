@@ -1,0 +1,15 @@
+﻿@model ClientCaseStudy.Models.Client
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+</head>
+<h2>Client Details</h2>
+<table class="table table-bordered">
+    <tr><th>ID</th><td>@Model.ClientId</td></tr>
+    <tr><th>Company</th><td>@Model.CompanyName</td></tr>
+    <tr><th>Website</th><td><a href="@Model.WebUrl" target="_blank">@Model.WebUrl</a></td></tr>
+    <tr><th>Email</th><td>@Model.Email</td></tr>
+    <tr><th>Category</th><td>@Model.Category</td></tr>
+    <tr><th>Standard</th><td>@Model.Standard</td></tr>
+</table>
+
+<a asp-action="ShowAllClientDetails" class="btn btn-secondary">Back</a>

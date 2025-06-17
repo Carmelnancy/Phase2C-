@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CARMEL NANCY\\source\\repos\\ClientCaseStudySln\\ClientCaseStudy\\ClientCaseStudy.csproj",
+      "projectUniqueName": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\ClientCaseStudy\\ClientCaseStudy.csproj",
       "projectName": "ClientCaseStudy",
-      "projectPath": "C:\\Users\\CARMEL NANCY\\source\\repos\\ClientCaseStudySln\\ClientCaseStudy\\ClientCaseStudy.csproj",
+      "projectPath": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\ClientCaseStudy\\ClientCaseStudy.csproj",
       "packagesPath": "C:\\Users\\CARMEL NANCY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CARMEL NANCY\\source\\repos\\ClientCaseStudySln\\ClientCaseStudy\\obj\\",
+      "outputPath": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\ClientCaseStudy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

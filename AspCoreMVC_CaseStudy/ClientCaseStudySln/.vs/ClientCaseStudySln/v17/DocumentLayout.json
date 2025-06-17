@@ -1,33 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\CARMEL NANCY\\source\\repos\\ClientCaseStudySln\\",
+  "WorkspaceRootPath": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|c:\\users\\carmel nancy\\source\\repos\\clientcasestudysln\\clientcasestudy\\controllers\\clientinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|c:\\phase2hexawarec#\\aspcoremvc_casestudy\\clientcasestudysln\\clientcasestudy\\views\\client\\clientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|solutionrelative:clientcasestudy\\views\\client\\clientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|c:\\phase2hexawarec#\\aspcoremvc_casestudy\\clientcasestudysln\\clientcasestudy\\views\\client\\showallclientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|solutionrelative:clientcasestudy\\views\\client\\showallclientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|c:\\phase2hexawarec#\\aspcoremvc_casestudy\\clientcasestudysln\\clientcasestudy\\controllers\\clientinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|solutionrelative:clientcasestudy\\controllers\\clientinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|c:\\users\\carmel nancy\\source\\repos\\clientcasestudysln\\clientcasestudy\\views\\clientinfo\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|solutionrelative:clientcasestudy\\views\\clientinfo\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|c:\\phase2hexawarec#\\aspcoremvc_casestudy\\clientcasestudysln\\clientcasestudy\\views\\client\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|solutionrelative:clientcasestudy\\views\\client\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|c:\\users\\carmel nancy\\source\\repos\\clientcasestudysln\\clientcasestudy\\models\\clientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|solutionrelative:clientcasestudy\\models\\clientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|c:\\phase2hexawarec#\\aspcoremvc_casestudy\\clientcasestudysln\\clientcasestudy\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|solutionrelative:clientcasestudy\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|c:\\users\\carmel nancy\\source\\repos\\clientcasestudysln\\clientcasestudy\\views\\clientinfo\\getdetailsbyclientid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|solutionrelative:clientcasestudy\\views\\clientinfo\\getdetailsbyclientid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|c:\\phase2hexawarec#\\aspcoremvc_casestudy\\clientcasestudysln\\clientcasestudy\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|solutionrelative:clientcasestudy\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|c:\\users\\carmel nancy\\source\\repos\\clientcasestudysln\\clientcasestudy\\views\\clientinfo\\showallclientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|solutionrelative:clientcasestudy\\views\\clientinfo\\showallclientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|c:\\users\\carmel nancy\\source\\repos\\clientcasestudysln\\clientcasestudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|c:\\phase2hexawarec#\\aspcoremvc_casestudy\\clientcasestudysln\\clientcasestudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|solutionrelative:clientcasestudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|c:\\users\\carmel nancy\\source\\repos\\clientcasestudysln\\clientcasestudy\\clientcasestudy.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|c:\\phase2hexawarec#\\aspcoremvc_casestudy\\clientcasestudysln\\clientcasestudy\\clientcasestudy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|solutionrelative:clientcasestudy\\clientcasestudy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|c:\\phase2hexawarec#\\aspcoremvc_casestudy\\clientcasestudysln\\clientcasestudy\\clientcasestudy.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{ECC6F5A9-E758-48A0-872F-8F76F78B17FA}|ClientCaseStudy\\ClientCaseStudy.csproj|solutionrelative:clientcasestudy\\clientcasestudy.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -43,75 +51,88 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AddClient.cshtml",
-              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\ClientCaseStudySln\\ClientCaseStudy\\Views\\ClientInfo\\AddClient.cshtml",
-              "RelativeDocumentMoniker": "ClientCaseStudy\\Views\\ClientInfo\\AddClient.cshtml",
-              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\ClientCaseStudySln\\ClientCaseStudy\\Views\\ClientInfo\\AddClient.cshtml",
-              "RelativeToolTip": "ClientCaseStudy\\Views\\ClientInfo\\AddClient.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ShowAllClientDetails.cshtml",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\ClientCaseStudy\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "RelativeDocumentMoniker": "ClientCaseStudy\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "ToolTip": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\ClientCaseStudy\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "RelativeToolTip": "ClientCaseStudy\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T03:50:07.077Z",
+              "WhenOpened": "2025-06-17T17:19:45.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ClientDetails.cshtml",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\ClientCaseStudy\\Views\\Client\\ClientDetails.cshtml",
+              "RelativeDocumentMoniker": "ClientCaseStudy\\Views\\Client\\ClientDetails.cshtml",
+              "ToolTip": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\ClientCaseStudy\\Views\\Client\\ClientDetails.cshtml",
+              "RelativeToolTip": "ClientCaseStudy\\Views\\Client\\ClientDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T17:47:01.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ClientInfoController.cs",
-              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\ClientCaseStudySln\\ClientCaseStudy\\Controllers\\ClientInfoController.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\ClientCaseStudy\\Controllers\\ClientInfoController.cs",
               "RelativeDocumentMoniker": "ClientCaseStudy\\Controllers\\ClientInfoController.cs",
-              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\ClientCaseStudySln\\ClientCaseStudy\\Controllers\\ClientInfoController.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\ClientCaseStudy\\Controllers\\ClientInfoController.cs",
               "RelativeToolTip": "ClientCaseStudy\\Controllers\\ClientInfoController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAkwEMAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAYwGAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T08:02:33.386Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetDetailsByClientId.cshtml",
-              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\ClientCaseStudySln\\ClientCaseStudy\\Views\\ClientInfo\\GetDetailsByClientId.cshtml",
-              "RelativeDocumentMoniker": "ClientCaseStudy\\Views\\ClientInfo\\GetDetailsByClientId.cshtml",
-              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\ClientCaseStudySln\\ClientCaseStudy\\Views\\ClientInfo\\GetDetailsByClientId.cshtml",
-              "RelativeToolTip": "ClientCaseStudy\\Views\\ClientInfo\\GetDetailsByClientId.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T03:43:55.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClientInfo.cs",
-              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\ClientCaseStudySln\\ClientCaseStudy\\Models\\ClientInfo.cs",
-              "RelativeDocumentMoniker": "ClientCaseStudy\\Models\\ClientInfo.cs",
-              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\ClientCaseStudySln\\ClientCaseStudy\\Models\\ClientInfo.cs",
-              "RelativeToolTip": "ClientCaseStudy\\Models\\ClientInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\ClientCaseStudy\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "ClientCaseStudy\\Models\\Client.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\ClientCaseStudy\\Models\\Client.cs",
+              "RelativeToolTip": "ClientCaseStudy\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T08:10:36.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShowAllClientDetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\ClientCaseStudySln\\ClientCaseStudy\\Views\\ClientInfo\\ShowAllClientDetails.cshtml",
-              "RelativeDocumentMoniker": "ClientCaseStudy\\Views\\ClientInfo\\ShowAllClientDetails.cshtml",
-              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\ClientCaseStudySln\\ClientCaseStudy\\Views\\ClientInfo\\ShowAllClientDetails.cshtml",
-              "RelativeToolTip": "ClientCaseStudy\\Views\\ClientInfo\\ShowAllClientDetails.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AddClient.cshtml",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\ClientCaseStudy\\Views\\Client\\AddClient.cshtml",
+              "RelativeDocumentMoniker": "ClientCaseStudy\\Views\\Client\\AddClient.cshtml",
+              "ToolTip": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\ClientCaseStudy\\Views\\Client\\AddClient.cshtml",
+              "RelativeToolTip": "ClientCaseStudy\\Views\\Client\\AddClient.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T03:42:56.665Z",
+              "WhenOpened": "2025-06-17T17:21:06.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\ClientCaseStudy\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ClientCaseStudy\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\ClientCaseStudy\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ClientCaseStudy\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T17:24:56.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\ClientCaseStudySln\\ClientCaseStudy\\Program.cs",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\ClientCaseStudy\\Program.cs",
               "RelativeDocumentMoniker": "ClientCaseStudy\\Program.cs",
-              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\ClientCaseStudySln\\ClientCaseStudy\\Program.cs",
+              "ToolTip": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\ClientCaseStudy\\Program.cs",
               "RelativeToolTip": "ClientCaseStudy\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -120,14 +141,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ClientCaseStudy",
-              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\ClientCaseStudySln\\ClientCaseStudy\\ClientCaseStudy.csproj",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\ClientCaseStudy\\ClientCaseStudy.csproj",
               "RelativeDocumentMoniker": "ClientCaseStudy\\ClientCaseStudy.csproj",
-              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\ClientCaseStudySln\\ClientCaseStudy\\ClientCaseStudy.csproj",
+              "ToolTip": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\ClientCaseStudy\\ClientCaseStudy.csproj",
+              "RelativeToolTip": "ClientCaseStudy\\ClientCaseStudy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T17:08:52.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientCaseStudy",
+              "DocumentMoniker": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\ClientCaseStudy\\ClientCaseStudy.csproj",
+              "RelativeDocumentMoniker": "ClientCaseStudy\\ClientCaseStudy.csproj",
+              "ToolTip": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ClientCaseStudySln\\ClientCaseStudy\\ClientCaseStudy.csproj",
               "RelativeToolTip": "ClientCaseStudy\\ClientCaseStudy.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-13T08:11:49.185Z"
+              "WhenOpened": "2025-06-13T08:11:49.185Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -2,7 +2,7 @@
 
 namespace ClientCaseStudy.Models
 {
-    public class ClientInfo
+    public class Client
     {
 
         public int ClientId { get; set; }
