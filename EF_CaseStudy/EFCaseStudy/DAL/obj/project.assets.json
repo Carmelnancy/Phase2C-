@@ -3805,11 +3805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CARMEL NANCY\\source\\repos\\EFCaseStudy\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Phase2HexawareC#\\EF_CaseStudy\\EFCaseStudy\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\CARMEL NANCY\\source\\repos\\EFCaseStudy\\DAL\\DAL.csproj",
+      "projectPath": "C:\\Phase2HexawareC#\\EF_CaseStudy\\EFCaseStudy\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\CARMEL NANCY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CARMEL NANCY\\source\\repos\\EFCaseStudy\\DAL\\obj\\",
+      "outputPath": "C:\\Phase2HexawareC#\\EF_CaseStudy\\EFCaseStudy\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3886,20 +3886,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

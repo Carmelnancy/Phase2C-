@@ -13,6 +13,7 @@ namespace AppUI
         private readonly IEventDetailsRepo _repo;
         public EventBL(IEventDetailsRepo repo) { _repo = repo; }
 
+
         public void AddEvent(EventDetails e) => _repo.Add(e);
         public List<EventDetails> GetAllEvents() => _repo.GetAll();
     }

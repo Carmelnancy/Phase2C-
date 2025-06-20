@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CARMEL NANCY\\source\\repos\\EFCaseStudy\\AppUI\\AppUI.csproj": {}
+    "C:\\Phase2HexawareC#\\EF_CaseStudy\\EFCaseStudy\\AppUI\\AppUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CARMEL NANCY\\source\\repos\\EFCaseStudy\\AppUI\\AppUI.csproj": {
+    "C:\\Phase2HexawareC#\\EF_CaseStudy\\EFCaseStudy\\AppUI\\AppUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CARMEL NANCY\\source\\repos\\EFCaseStudy\\AppUI\\AppUI.csproj",
+        "projectUniqueName": "C:\\Phase2HexawareC#\\EF_CaseStudy\\EFCaseStudy\\AppUI\\AppUI.csproj",
         "projectName": "AppUI",
-        "projectPath": "C:\\Users\\CARMEL NANCY\\source\\repos\\EFCaseStudy\\AppUI\\AppUI.csproj",
+        "projectPath": "C:\\Phase2HexawareC#\\EF_CaseStudy\\EFCaseStudy\\AppUI\\AppUI.csproj",
         "packagesPath": "C:\\Users\\CARMEL NANCY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CARMEL NANCY\\source\\repos\\EFCaseStudy\\AppUI\\obj\\",
+        "outputPath": "C:\\Phase2HexawareC#\\EF_CaseStudy\\EFCaseStudy\\AppUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -82,24 +82,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

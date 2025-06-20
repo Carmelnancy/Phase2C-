@@ -11,6 +11,7 @@ namespace DAL.DataAccess
     {
         private readonly EventContext _context = new EventContext();
 
+
         public List<SessionInfo> GetSessionsByEventId(int eventId)
         {
             return _context.Sessions.Where(s => s.EventId == eventId).ToList();
