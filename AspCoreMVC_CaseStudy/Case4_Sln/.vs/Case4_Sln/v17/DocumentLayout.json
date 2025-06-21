@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|c:\\users\\carmel nancy\\source\\repos\\case4_sln\\case4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|solutionrelative:case4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|c:\\users\\carmel nancy\\source\\repos\\case4_sln\\case4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|solutionrelative:case4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|c:\\users\\carmel nancy\\source\\repos\\case4_sln\\case4\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|solutionrelative:case4\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|c:\\users\\carmel nancy\\source\\repos\\case4_sln\\case4\\views\\home\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|solutionrelative:case4\\views\\home\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|c:\\users\\carmel nancy\\source\\repos\\case4_sln\\case4\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|solutionrelative:case4\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|c:\\users\\carmel nancy\\source\\repos\\case4_sln\\case4\\views\\admin\\addremovetrainers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|solutionrelative:case4\\views\\admin\\addremovetrainers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|c:\\users\\carmel nancy\\source\\repos\\case4_sln\\case4\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|solutionrelative:case4\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|c:\\users\\carmel nancy\\source\\repos\\case4_sln\\case4\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|solutionrelative:case4\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|c:\\users\\carmel nancy\\source\\repos\\case4_sln\\case4\\views\\admin\\addremovecourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|solutionrelative:case4\\views\\admin\\addremovecourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|c:\\users\\carmel nancy\\source\\repos\\case4_sln\\case4\\views\\admin\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|solutionrelative:case4\\views\\admin\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|c:\\users\\carmel nancy\\source\\repos\\case4_sln\\case4\\views\\home\\learnerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|solutionrelative:case4\\views\\home\\learnerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|c:\\users\\carmel nancy\\source\\repos\\case4_sln\\case4\\views\\home\\trainerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|solutionrelative:case4\\views\\home\\trainerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|c:\\users\\carmel nancy\\source\\repos\\case4_sln\\case4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|solutionrelative:case4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|c:\\users\\carmel nancy\\source\\repos\\case4_sln\\case4\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|solutionrelative:case4\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|c:\\users\\carmel nancy\\source\\repos\\case4_sln\\case4\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|solutionrelative:case4\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|c:\\users\\carmel nancy\\source\\repos\\case4_sln\\case4\\views\\admin\\addremovelearners.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|solutionrelative:case4\\views\\admin\\addremovelearners.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|c:\\users\\carmel nancy\\source\\repos\\case4_sln\\case4\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|solutionrelative:case4\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|c:\\users\\carmel nancy\\source\\repos\\case4_sln\\case4\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|solutionrelative:case4\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|c:\\users\\carmel nancy\\source\\repos\\case4_sln\\case4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3C38AC-946C-4F2A-BC03-C049287A3430}|Case4\\Case4.csproj|solutionrelative:case4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Case4\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Case4\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAzwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:19:32.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddRemoveTrainers.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Admin\\AddRemoveTrainers.cshtml",
+              "RelativeDocumentMoniker": "Case4\\Views\\Admin\\AddRemoveTrainers.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Admin\\AddRemoveTrainers.cshtml",
+              "RelativeToolTip": "Case4\\Views\\Admin\\AddRemoveTrainers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T15:23:34.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Home\\Home.cshtml",
+              "RelativeDocumentMoniker": "Case4\\Views\\Home\\Home.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Home\\Home.cshtml",
+              "RelativeToolTip": "Case4\\Views\\Home\\Home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T14:57:24.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Program.cs",
+              "RelativeDocumentMoniker": "Case4\\Program.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Program.cs",
+              "RelativeToolTip": "Case4\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:14:43.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Case4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Case4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T14:39:05.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Home\\AdminLogin.cshtml",
+              "RelativeDocumentMoniker": "Case4\\Views\\Home\\AdminLogin.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Home\\AdminLogin.cshtml",
+              "RelativeToolTip": "Case4\\Views\\Home\\AdminLogin.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T16:14:20.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Case4\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Case4\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T15:07:45.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LearnerLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Home\\LearnerLogin.cshtml",
+              "RelativeDocumentMoniker": "Case4\\Views\\Home\\LearnerLogin.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Home\\LearnerLogin.cshtml",
+              "RelativeToolTip": "Case4\\Views\\Home\\LearnerLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T16:14:58.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddRemoveCourses.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Admin\\AddRemoveCourses.cshtml",
+              "RelativeDocumentMoniker": "Case4\\Views\\Admin\\AddRemoveCourses.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Admin\\AddRemoveCourses.cshtml",
+              "RelativeToolTip": "Case4\\Views\\Admin\\AddRemoveCourses.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T15:23:06.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Case4\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "Case4\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T17:06:35.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Admin\\UpdateProfile.cshtml",
+              "RelativeDocumentMoniker": "Case4\\Views\\Admin\\UpdateProfile.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Admin\\UpdateProfile.cshtml",
+              "RelativeToolTip": "Case4\\Views\\Admin\\UpdateProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T15:22:30.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "Case4\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "Case4\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T15:02:11.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TrainerLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Home\\TrainerLogin.cshtml",
+              "RelativeDocumentMoniker": "Case4\\Views\\Home\\TrainerLogin.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Home\\TrainerLogin.cshtml",
+              "RelativeToolTip": "Case4\\Views\\Home\\TrainerLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T16:14:39.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Case4\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Case4\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:18:48.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "Case4\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "Case4\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T15:03:02.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddRemoveLearners.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Admin\\AddRemoveLearners.cshtml",
+              "RelativeDocumentMoniker": "Case4\\Views\\Admin\\AddRemoveLearners.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Views\\Admin\\AddRemoveLearners.cshtml",
+              "RelativeToolTip": "Case4\\Views\\Admin\\AddRemoveLearners.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T15:24:12.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TrainerController.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Controllers\\TrainerController.cs",
+              "RelativeDocumentMoniker": "Case4\\Controllers\\TrainerController.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Controllers\\TrainerController.cs",
+              "RelativeToolTip": "Case4\\Controllers\\TrainerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:20:02.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LearnerController.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Controllers\\LearnerController.cs",
+              "RelativeDocumentMoniker": "Case4\\Controllers\\LearnerController.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Controllers\\LearnerController.cs",
+              "RelativeToolTip": "Case4\\Controllers\\LearnerController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:20:30.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Case4\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case4_Sln\\Case4\\Models\\User.cs",
+              "RelativeToolTip": "Case4\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:13:35.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

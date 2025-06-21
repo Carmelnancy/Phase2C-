@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\ContactCaseStudy.csproj": {}
+    "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ContactCaseStudySln\\ContactCaseStudy\\ContactCaseStudy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\ContactCaseStudy.csproj": {
+    "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ContactCaseStudySln\\ContactCaseStudy\\ContactCaseStudy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\ContactCaseStudy.csproj",
+        "projectUniqueName": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ContactCaseStudySln\\ContactCaseStudy\\ContactCaseStudy.csproj",
         "projectName": "ContactCaseStudy",
-        "projectPath": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\ContactCaseStudy.csproj",
+        "projectPath": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ContactCaseStudySln\\ContactCaseStudy\\ContactCaseStudy.csproj",
         "packagesPath": "C:\\Users\\CARMEL NANCY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\obj\\",
+        "outputPath": "C:\\Phase2HexawareC#\\AspCoreMVC_CaseStudy\\ContactCaseStudySln\\ContactCaseStudy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

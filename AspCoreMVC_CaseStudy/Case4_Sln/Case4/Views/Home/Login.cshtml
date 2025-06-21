@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Login as:</h2>
+@* <a asp-route="AdminLogin" class="btn btn-primary">Admin</a> *@
+@* <a asp-route="TrainerLogin" class="btn btn-success">Trainer</a> *@
+@* <a asp-route="LearnerLogin" class="btn btn-warning">Learner</a> *@
+<a href="/Home/AdminLogin" class="btn btn-primary">AdminLogin</a>
+<a href="/Home/TrainerLogin" class="btn btn-success">TrainerLogin</a>
+<a href="/Home/LearnerLogin" class="btn btn-warning">LearnerLogin</a>

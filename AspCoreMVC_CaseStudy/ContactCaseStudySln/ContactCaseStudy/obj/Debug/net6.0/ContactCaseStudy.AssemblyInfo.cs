@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContactCaseStudy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a251d225a32dc5e91864f7dcd7cd5cbee1b4c14")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContactCaseStudy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContactCaseStudy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

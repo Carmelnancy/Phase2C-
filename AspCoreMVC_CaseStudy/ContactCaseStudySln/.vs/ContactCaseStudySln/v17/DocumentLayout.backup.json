@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E199D6FF-C7AF-4CA3-BFF0-104DB6313BEA}|ContactCaseStudy\\ContactCaseStudy.csproj|c:\\users\\carmel nancy\\source\\repos\\contactcasestudysln\\contactcasestudy\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E199D6FF-C7AF-4CA3-BFF0-104DB6313BEA}|ContactCaseStudy\\ContactCaseStudy.csproj|solutionrelative:contactcasestudy\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E199D6FF-C7AF-4CA3-BFF0-104DB6313BEA}|ContactCaseStudy\\ContactCaseStudy.csproj|c:\\users\\carmel nancy\\source\\repos\\contactcasestudysln\\contactcasestudy\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E199D6FF-C7AF-4CA3-BFF0-104DB6313BEA}|ContactCaseStudy\\ContactCaseStudy.csproj|solutionrelative:contactcasestudy\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E199D6FF-C7AF-4CA3-BFF0-104DB6313BEA}|ContactCaseStudy\\ContactCaseStudy.csproj|c:\\users\\carmel nancy\\source\\repos\\contactcasestudysln\\contactcasestudy\\views\\contact\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E199D6FF-C7AF-4CA3-BFF0-104DB6313BEA}|ContactCaseStudy\\ContactCaseStudy.csproj|solutionrelative:contactcasestudy\\views\\contact\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E199D6FF-C7AF-4CA3-BFF0-104DB6313BEA}|ContactCaseStudy\\ContactCaseStudy.csproj|c:\\users\\carmel nancy\\source\\repos\\contactcasestudysln\\contactcasestudy\\views\\contact\\showcontacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E199D6FF-C7AF-4CA3-BFF0-104DB6313BEA}|ContactCaseStudy\\ContactCaseStudy.csproj|solutionrelative:contactcasestudy\\views\\contact\\showcontacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,24 +23,12 @@
       "RelativeMoniker": "D:0:0:{E199D6FF-C7AF-4CA3-BFF0-104DB6313BEA}|ContactCaseStudy\\ContactCaseStudy.csproj|solutionrelative:contactcasestudy\\views\\contact\\getcontactbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E199D6FF-C7AF-4CA3-BFF0-104DB6313BEA}|ContactCaseStudy\\ContactCaseStudy.csproj|c:\\users\\carmel nancy\\source\\repos\\contactcasestudysln\\contactcasestudy\\views\\contact\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E199D6FF-C7AF-4CA3-BFF0-104DB6313BEA}|ContactCaseStudy\\ContactCaseStudy.csproj|solutionrelative:contactcasestudy\\views\\contact\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E199D6FF-C7AF-4CA3-BFF0-104DB6313BEA}|ContactCaseStudy\\ContactCaseStudy.csproj|c:\\users\\carmel nancy\\source\\repos\\contactcasestudysln\\contactcasestudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E199D6FF-C7AF-4CA3-BFF0-104DB6313BEA}|ContactCaseStudy\\ContactCaseStudy.csproj|solutionrelative:contactcasestudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E199D6FF-C7AF-4CA3-BFF0-104DB6313BEA}|ContactCaseStudy\\ContactCaseStudy.csproj|c:\\users\\carmel nancy\\source\\repos\\contactcasestudysln\\contactcasestudy\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E199D6FF-C7AF-4CA3-BFF0-104DB6313BEA}|ContactCaseStudy\\ContactCaseStudy.csproj|solutionrelative:contactcasestudy\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E199D6FF-C7AF-4CA3-BFF0-104DB6313BEA}|ContactCaseStudy\\ContactCaseStudy.csproj|c:\\users\\carmel nancy\\source\\repos\\contactcasestudysln\\contactcasestudy\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E199D6FF-C7AF-4CA3-BFF0-104DB6313BEA}|ContactCaseStudy\\ContactCaseStudy.csproj|solutionrelative:contactcasestudy\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E199D6FF-C7AF-4CA3-BFF0-104DB6313BEA}|ContactCaseStudy\\ContactCaseStudy.csproj|c:\\users\\carmel nancy\\source\\repos\\contactcasestudysln\\contactcasestudy\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E199D6FF-C7AF-4CA3-BFF0-104DB6313BEA}|ContactCaseStudy\\ContactCaseStudy.csproj|solutionrelative:contactcasestudy\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CARMEL NANCY\\Downloads\\MockDemo\\MockDemo\\EcommTests\\ProductServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -57,49 +57,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "ContactCaseStudy\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "ContactCaseStudy\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-15T17:46:19.304Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AddContact.cshtml",
               "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\Views\\Contact\\AddContact.cshtml",
               "RelativeDocumentMoniker": "ContactCaseStudy\\Views\\Contact\\AddContact.cshtml",
-              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\Views\\Contact\\AddContact.cshtml*",
-              "RelativeToolTip": "ContactCaseStudy\\Views\\Contact\\AddContact.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\Views\\Contact\\AddContact.cshtml",
+              "RelativeToolTip": "ContactCaseStudy\\Views\\Contact\\AddContact.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-15T17:29:15.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ContactController.cs",
               "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "ContactCaseStudy\\Controllers\\ContactController.cs",
               "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\Controllers\\ContactController.cs",
               "RelativeToolTip": "ContactCaseStudy\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T17:12:34.653Z"
+              "WhenOpened": "2025-06-15T17:12:34.653Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\Program.cs",
               "RelativeDocumentMoniker": "ContactCaseStudy\\Program.cs",
@@ -112,12 +100,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "GetContactById.cshtml",
               "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\Views\\Contact\\GetContactById.cshtml",
               "RelativeDocumentMoniker": "ContactCaseStudy\\Views\\Contact\\GetContactById.cshtml",
-              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\Views\\Contact\\GetContactById.cshtml*",
-              "RelativeToolTip": "ContactCaseStudy\\Views\\Contact\\GetContactById.cshtml*",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\Views\\Contact\\GetContactById.cshtml",
+              "RelativeToolTip": "ContactCaseStudy\\Views\\Contact\\GetContactById.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-15T17:26:46.978Z",
@@ -125,12 +113,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ShowContacts.cshtml",
               "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\Views\\Contact\\ShowContacts.cshtml",
               "RelativeDocumentMoniker": "ContactCaseStudy\\Views\\Contact\\ShowContacts.cshtml",
-              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\Views\\Contact\\ShowContacts.cshtml*",
-              "RelativeToolTip": "ContactCaseStudy\\Views\\Contact\\ShowContacts.cshtml*",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\Views\\Contact\\ShowContacts.cshtml",
+              "RelativeToolTip": "ContactCaseStudy\\Views\\Contact\\ShowContacts.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-15T17:21:18.106Z",
@@ -138,15 +126,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "ContactInfo.cs",
               "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\Models\\ContactInfo.cs",
               "RelativeDocumentMoniker": "ContactCaseStudy\\Models\\ContactInfo.cs",
               "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\Models\\ContactInfo.cs",
               "RelativeToolTip": "ContactCaseStudy\\Models\\ContactInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T17:10:46.64Z"
+              "WhenOpened": "2025-06-15T17:10:46.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ContactCaseStudy\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\ContactCaseStudySln\\ContactCaseStudy\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ContactCaseStudy\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T17:46:19.304Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

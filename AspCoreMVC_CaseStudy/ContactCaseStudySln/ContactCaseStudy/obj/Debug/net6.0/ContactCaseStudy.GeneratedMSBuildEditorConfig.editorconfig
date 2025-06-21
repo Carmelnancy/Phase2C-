@@ -9,29 +9,29 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ContactCaseStudy
 build_property.RootNamespace = ContactCaseStudy
-build_property.ProjectDir = C:\Users\CARMEL NANCY\source\repos\ContactCaseStudySln\ContactCaseStudy\
+build_property.ProjectDir = C:\Phase2HexawareC#\AspCoreMVC_CaseStudy\ContactCaseStudySln\ContactCaseStudy\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\CARMEL NANCY\source\repos\ContactCaseStudySln\ContactCaseStudy
+build_property.MSBuildProjectDirectory = C:\Phase2HexawareC#\AspCoreMVC_CaseStudy\ContactCaseStudySln\ContactCaseStudy
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 6.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/CARMEL NANCY/source/repos/ContactCaseStudySln/ContactCaseStudy/Views/Contact/AddContact.cshtml]
+[C:/Phase2HexawareC\#/AspCoreMVC_CaseStudy/ContactCaseStudySln/ContactCaseStudy/Views/Contact/AddContact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxBZGRDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CARMEL NANCY/source/repos/ContactCaseStudySln/ContactCaseStudy/Views/Contact/GetContactById.cshtml]
+[C:/Phase2HexawareC\#/AspCoreMVC_CaseStudy/ContactCaseStudySln/ContactCaseStudy/Views/Contact/GetContactById.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxHZXRDb250YWN0QnlJZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CARMEL NANCY/source/repos/ContactCaseStudySln/ContactCaseStudy/Views/Contact/ShowContacts.cshtml]
+[C:/Phase2HexawareC\#/AspCoreMVC_CaseStudy/ContactCaseStudySln/ContactCaseStudy/Views/Contact/ShowContacts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxTaG93Q29udGFjdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CARMEL NANCY/source/repos/ContactCaseStudySln/ContactCaseStudy/Views/_ViewImports.cshtml]
+[C:/Phase2HexawareC\#/AspCoreMVC_CaseStudy/ContactCaseStudySln/ContactCaseStudy/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

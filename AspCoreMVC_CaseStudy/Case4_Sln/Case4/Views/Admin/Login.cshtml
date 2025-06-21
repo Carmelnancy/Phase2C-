@@ -1,0 +1,30 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+@{
+    ViewData["Title"] = "Admin Dashboard";
+    Layout = "~/Views/Shared/_Layout.cshtml"; // or null if not using layout
+}
+
+<h2>Logged in successfully!</h2>
+
+<div class="mt-4">
+    <ul class="list-group">
+        <li class="list-group-item">
+            <a asp-controller="Admin" asp-action="UpdateProfile" class="btn btn-outline-primary">Update Profile</a>
+        </li>
+        <li class="list-group-item">
+            <a asp-controller="Admin" asp-action="AddRemoveCourses" class="btn btn-outline-success">Manage Courses</a>
+        </li>
+        <li class="list-group-item">
+            <a asp-controller="Admin" asp-action="AddRemoveTrainers" class="btn btn-outline-warning">Manage Trainers</a>
+        </li>
+        <li class="list-group-item">
+            <a asp-controller="Admin" asp-action="AddRemoveLearners" class="btn btn-outline-info">Manage Learners</a>
+        </li>
+        <li class="list-group-item">
+            <a asp-controller="Admin" asp-action="Logout" class="btn btn-outline-danger">Logout</a>
+        </li>
+    </ul>
+</div>
+
