@@ -1,0 +1,42 @@
+﻿@model List<Case3.Models.Book>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Books List";
+}
+
+<h2>Books List</h2>
+
+<a asp-action="Add" class="btn btn-success mb-3">Add New Book</a>
+
+@if (!Model.Any())
+{
+    <p>No books available.</p>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>ISBN</th>
+                <th>Book Name</th>
+                <th>Author</th>
+                <th>Published Date</th>
+                <th>Book URL</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in Model)
+            {
+                <tr>
+                    <td>@book.Isbn</td>
+                    <td>@book.BookName</td>
+                    <td>@book.AuthorName</td>
+                    <td>@book.PublishedDate.ToShortDateString()</td>
+                    <td><a href="@book.BookUrl" target="_blank">@book.BookUrl</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+

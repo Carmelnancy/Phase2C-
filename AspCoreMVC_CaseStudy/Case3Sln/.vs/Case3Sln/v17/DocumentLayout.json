@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case3Sln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1941B1-7961-4973-AF79-3DE49C158B5E}|Case3\\Case3.csproj|c:\\users\\carmel nancy\\source\\repos\\case3sln\\case3\\utilities\\nofuturedateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1941B1-7961-4973-AF79-3DE49C158B5E}|Case3\\Case3.csproj|solutionrelative:case3\\utilities\\nofuturedateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1941B1-7961-4973-AF79-3DE49C158B5E}|Case3\\Case3.csproj|c:\\users\\carmel nancy\\source\\repos\\case3sln\\case3\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1941B1-7961-4973-AF79-3DE49C158B5E}|Case3\\Case3.csproj|solutionrelative:case3\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1941B1-7961-4973-AF79-3DE49C158B5E}|Case3\\Case3.csproj|c:\\users\\carmel nancy\\source\\repos\\case3sln\\case3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1941B1-7961-4973-AF79-3DE49C158B5E}|Case3\\Case3.csproj|solutionrelative:case3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1941B1-7961-4973-AF79-3DE49C158B5E}|Case3\\Case3.csproj|c:\\users\\carmel nancy\\source\\repos\\case3sln\\case3\\views\\book\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1941B1-7961-4973-AF79-3DE49C158B5E}|Case3\\Case3.csproj|solutionrelative:case3\\views\\book\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1941B1-7961-4973-AF79-3DE49C158B5E}|Case3\\Case3.csproj|c:\\users\\carmel nancy\\source\\repos\\case3sln\\case3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1941B1-7961-4973-AF79-3DE49C158B5E}|Case3\\Case3.csproj|solutionrelative:case3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1941B1-7961-4973-AF79-3DE49C158B5E}|Case3\\Case3.csproj|c:\\users\\carmel nancy\\source\\repos\\case3sln\\case3\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1941B1-7961-4973-AF79-3DE49C158B5E}|Case3\\Case3.csproj|solutionrelative:case3\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1941B1-7961-4973-AF79-3DE49C158B5E}|Case3\\Case3.csproj|c:\\users\\carmel nancy\\source\\repos\\case3sln\\case3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1941B1-7961-4973-AF79-3DE49C158B5E}|Case3\\Case3.csproj|solutionrelative:case3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1941B1-7961-4973-AF79-3DE49C158B5E}|Case3\\Case3.csproj|c:\\users\\carmel nancy\\source\\repos\\case3sln\\case3\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1941B1-7961-4973-AF79-3DE49C158B5E}|Case3\\Case3.csproj|solutionrelative:case3\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1941B1-7961-4973-AF79-3DE49C158B5E}|Case3\\Case3.csproj|c:\\users\\carmel nancy\\source\\repos\\case3sln\\case3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1941B1-7961-4973-AF79-3DE49C158B5E}|Case3\\Case3.csproj|solutionrelative:case3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoFutureDateAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case3Sln\\Case3\\Utilities\\NoFutureDateAttribute.cs",
+              "RelativeDocumentMoniker": "Case3\\Utilities\\NoFutureDateAttribute.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case3Sln\\Case3\\Utilities\\NoFutureDateAttribute.cs",
+              "RelativeToolTip": "Case3\\Utilities\\NoFutureDateAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:18:58.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case3Sln\\Case3\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Case3\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case3Sln\\Case3\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Case3\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T18:11:46.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case3Sln\\Case3\\Views\\Book\\Add.cshtml",
+              "RelativeDocumentMoniker": "Case3\\Views\\Book\\Add.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case3Sln\\Case3\\Views\\Book\\Add.cshtml",
+              "RelativeToolTip": "Case3\\Views\\Book\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T18:12:12.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case3Sln\\Case3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Case3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case3Sln\\Case3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Case3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T18:14:23.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case3Sln\\Case3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Case3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case3Sln\\Case3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Case3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T18:15:03.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case3Sln\\Case3\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Case3\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case3Sln\\Case3\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Case3\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:09:30.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case3Sln\\Case3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Case3\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case3Sln\\Case3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Case3\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T18:28:09.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case3Sln\\Case3\\Program.cs",
+              "RelativeDocumentMoniker": "Case3\\Program.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case3Sln\\Case3\\Program.cs",
+              "RelativeToolTip": "Case3\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:23:18.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case3Sln\\Case3\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Case3\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\Case3Sln\\Case3\\Models\\Book.cs",
+              "RelativeToolTip": "Case3\\Models\\Book.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:09:07.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
