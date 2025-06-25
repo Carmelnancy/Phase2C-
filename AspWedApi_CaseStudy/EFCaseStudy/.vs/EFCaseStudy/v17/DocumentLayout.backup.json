@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0903A80D-C56F-4D10-A853-DE9C8E43E3C7}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\carmel nancy\\onedrive\\documents\\ef_casestudy\\efcasestudy\\servicelayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0903A80D-C56F-4D10-A853-DE9C8E43E3C7}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0903A80D-C56F-4D10-A853-DE9C8E43E3C7}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\carmel nancy\\onedrive\\documents\\ef_casestudy\\efcasestudy\\servicelayer\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0903A80D-C56F-4D10-A853-DE9C8E43E3C7}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|c:\\users\\carmel nancy\\onedrive\\documents\\ef_casestudy\\efcasestudy\\dal\\dataaccess\\eventdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\eventdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|c:\\users\\carmel nancy\\onedrive\\documents\\ef_casestudy\\efcasestudy\\dal\\dataaccess\\ieventdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\ieventdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|c:\\users\\carmel nancy\\onedrive\\documents\\ef_casestudy\\efcasestudy\\dal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|solutionrelative:dal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|c:\\users\\carmel nancy\\onedrive\\documents\\ef_casestudy\\efcasestudy\\dal\\model\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|solutionrelative:dal\\model\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|c:\\users\\carmel nancy\\onedrive\\documents\\ef_casestudy\\efcasestudy\\dal\\model\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|solutionrelative:dal\\model\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|c:\\users\\carmel nancy\\onedrive\\documents\\ef_casestudy\\efcasestudy\\dal\\dataaccess\\sessioninforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\sessioninforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|c:\\users\\carmel nancy\\onedrive\\documents\\ef_casestudy\\efcasestudy\\dal\\model\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|solutionrelative:dal\\model\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|c:\\users\\carmel nancy\\onedrive\\documents\\ef_casestudy\\efcasestudy\\dal\\model\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|solutionrelative:dal\\model\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|c:\\users\\carmel nancy\\onedrive\\documents\\ef_casestudy\\efcasestudy\\dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|solutionrelative:dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|c:\\users\\carmel nancy\\onedrive\\documents\\ef_casestudy\\efcasestudy\\dal\\dal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|c:\\users\\carmel nancy\\onedrive\\documents\\ef_casestudy\\efcasestudy\\dal\\dataaccess\\userinforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\userinforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|c:\\users\\carmel nancy\\onedrive\\documents\\ef_casestudy\\efcasestudy\\dal\\dataaccess\\iuserinforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\iuserinforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|c:\\users\\carmel nancy\\onedrive\\documents\\ef_casestudy\\efcasestudy\\dal\\dataaccess\\isessioninforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\isessioninforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|c:\\users\\carmel nancy\\onedrive\\documents\\ef_casestudy\\efcasestudy\\dal\\model\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|solutionrelative:dal\\model\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|c:\\users\\carmel nancy\\onedrive\\documents\\ef_casestudy\\efcasestudy\\dal\\migrationscripts.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|solutionrelative:dal\\migrationscripts.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|c:\\users\\carmel nancy\\onedrive\\documents\\ef_casestudy\\efcasestudy\\dal\\model\\speakerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|solutionrelative:dal\\model\\speakerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CARMEL NANCY\\source\\repos\\EFCaseStudy\\DAL\\Migrations\\20250611161444_InitailMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|c:\\users\\carmel nancy\\onedrive\\documents\\ef_casestudy\\efcasestudy\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|c:\\users\\carmel nancy\\onedrive\\documents\\ef_casestudy\\efcasestudy\\dal\\model\\participanteventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|solutionrelative:dal\\model\\participanteventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|c:\\users\\carmel nancy\\onedrive\\documents\\ef_casestudy\\efcasestudy\\dal\\migrations\\20250611162227_initailmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E527A-AEE1-4275-8E25-0F75D4905297}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20250611162227_initailmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\ServiceLayer\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\ServiceLayer\\Controllers\\EventController.cs",
+              "RelativeToolTip": "ServiceLayer\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:43:50.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\ServiceLayer\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\ServiceLayer\\Program.cs",
+              "RelativeToolTip": "ServiceLayer\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:40:45.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\Program.cs",
+              "RelativeDocumentMoniker": "DAL\\Program.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\Program.cs",
+              "RelativeToolTip": "DAL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:50:18.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessionInfoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\DataAccess\\SessionInfoRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\SessionInfoRepo.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\DataAccess\\SessionInfoRepo.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\SessionInfoRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:50:31.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\Model\\SessionInfo.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\SessionInfo.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\Model\\SessionInfo.cs",
+              "RelativeToolTip": "DAL\\Model\\SessionInfo.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:06:56.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventContext.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\Model\\EventContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\EventContext.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\Model\\EventContext.cs",
+              "RelativeToolTip": "DAL\\Model\\EventContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:57:39.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEventDetailsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\DataAccess\\IEventDetailsRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\IEventDetailsRepo.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\DataAccess\\IEventDetailsRepo.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\IEventDetailsRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:48:55.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventDetailsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\DataAccess\\EventDetailsRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\EventDetailsRepo.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\DataAccess\\EventDetailsRepo.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\EventDetailsRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:49:31.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventDetails.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\Model\\EventDetails.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\EventDetails.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\Model\\EventDetails.cs",
+              "RelativeToolTip": "DAL\\Model\\EventDetails.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:06:15.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\Model\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\Model\\DatabaseHelper.cs",
+              "RelativeToolTip": "DAL\\Model\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:45:50.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appSettings.json",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\appSettings.json",
+              "RelativeDocumentMoniker": "DAL\\appSettings.json",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\appSettings.json",
+              "RelativeToolTip": "DAL\\appSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T11:45:48.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DAL",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T02:55:31.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserInfoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\DataAccess\\IUserInfoRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\IUserInfoRepo.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\DataAccess\\IUserInfoRepo.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\IUserInfoRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:46:43.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserInfoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\DataAccess\\UserInfoRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\UserInfoRepo.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\DataAccess\\UserInfoRepo.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\UserInfoRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:47:18.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ISessionInfoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\DataAccess\\ISessionInfoRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\ISessionInfoRepo.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\DataAccess\\ISessionInfoRepo.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\ISessionInfoRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:50:10.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MigrationScripts.md",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\MigrationScripts.md",
+              "RelativeDocumentMoniker": "DAL\\MigrationScripts.md",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\MigrationScripts.md",
+              "RelativeToolTip": "DAL\\MigrationScripts.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-11T16:25:16.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250611162227_InitailMigration.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\Migrations\\20250611162227_InitailMigration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250611162227_InitailMigration.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\Migrations\\20250611162227_InitailMigration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250611162227_InitailMigration.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:22:28.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SpeakerDetails.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\Model\\SpeakerDetails.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\SpeakerDetails.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\Model\\SpeakerDetails.cs",
+              "RelativeToolTip": "DAL\\Model\\SpeakerDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:06:33.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\Model\\UserInfo.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\Model\\UserInfo.cs",
+              "RelativeToolTip": "DAL\\Model\\UserInfo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:05:54.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250611161444_InitailMigration.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\EFCaseStudy\\DAL\\Migrations\\20250611161444_InitailMigration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\EFCaseStudy\\DAL\\Migrations\\20250611161444_InitailMigration.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\EFCaseStudy\\DAL\\Migrations\\20250611161444_InitailMigration.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\EFCaseStudy\\DAL\\Migrations\\20250611161444_InitailMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:14:44.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ParticipantEventDetails.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\Model\\ParticipantEventDetails.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\ParticipantEventDetails.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\Model\\ParticipantEventDetails.cs",
+              "RelativeToolTip": "DAL\\Model\\ParticipantEventDetails.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:07:23.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\OneDrive\\Documents\\EF_CaseStudy\\EFCaseStudy\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T11:43:11.803Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
