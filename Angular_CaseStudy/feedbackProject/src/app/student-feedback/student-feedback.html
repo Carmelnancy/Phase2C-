@@ -1,0 +1,21 @@
+<label>Student:</label>
+<input type="text" [(ngModel)]="feedback.name"><br>
+<label>Course:</label>
+ <select name="courses" [(ngModel)]="feedback.course" >
+    <option value="Angular" selected>Angular</option>
+    <option value="React">React</option>
+ </select><br>
+<label>Rating:</label>
+<input type="number" [(ngModel)]="feedback.rating"  min="1" max="5"><br>
+
+<label>Comments:</label>
+<input type="text" [(ngModel)]="feedback.comments"><br>
+
+<hr>
+
+<h2>Feedback Preview</h2>
+
+<p><strong>Student Name:</strong>{{feedback.name}}</p>
+<p><strong>Course:</strong>{{feedback.course}}</p>
+<p><strong>Rating:</strong>{{feedback.rating}}</p>
+<p><strong>Comments:</strong>{{feedback.comments}}</p>
