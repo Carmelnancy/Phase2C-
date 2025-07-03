@@ -1,0 +1,13 @@
+<ul>
+    <li *ngFor="let c of course">
+
+        <strong>Title:</strong>{{c.title | uppercase}}<br>
+        <strong>Instructor:</strong>{{c.instructor | lowercase}}<br>
+        <strong>Starts On:</strong>{{c.startDate | date:'dd/MM/yyyy'}}<br>
+        <strong>Price:</strong>{{c.price}}<br>
+        <strong>About:</strong>{{c.description}}
+        <hr>
+    </li>
+</ul>
+
+
