@@ -1,0 +1,16 @@
+<h2>Employee Attendance Dashboard</h2>
+
+<ul *ngIf="employees.length>0; else noEmployee">
+    <li *ngFor="let employee of employees" >
+        <span [ngStyle]="{'font-weight': employee.isPresent ? 'bold' : 'normal'}">{{ employee.name }}</span>
+           (<span [ngStyle]="{
+            color: employee.department === 'IT' ? 'blue' :
+               employee.department === 'HR' ? 'purple' :
+               employee.department === 'Sales' ? 'orange' : 'black'
+      }">{{ employee.department }}</span>) -
+        <span *ngIf="employee.isPresent==true" [ngClass]="'present'">Present</span>
+        <span *ngIf="employee.isPresent==false && employee.workFromHome==false" [ngClass]="'absent'">Absent</span>
+        <span *ngIf="employee.workFromHome==true" class="home">Work From Home</span>
+    </li>
+</ul>
+<ng-template #noEmployee>No Employees available</ng-template>
