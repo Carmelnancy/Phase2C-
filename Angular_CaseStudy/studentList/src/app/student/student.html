@@ -1,0 +1,13 @@
+<h2>Student List</h2>
+
+<ul *ngIf="students.length>0; else noStudents">
+    <li *ngFor="let student of students" [ngClass]="{'pass':student.marks>=50,'fail':student.marks<50}">
+
+      <strong> {{student.name}}  - Marks - {{student.marks}} - </strong> 
+      <span *ngIf="student.marks>=50">Pass</span>
+      <span *ngIf="student.marks<50">Fail</span>
+
+    </li>
+</ul>
+
+<ng-template #noStudents>No students found.</ng-template>
