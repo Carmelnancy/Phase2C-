@@ -1,0 +1,10 @@
+<h2>Book Details:</h2>
+<div *ngIf="book">
+  <p><strong>Title:</strong> {{ book.title }}</p>
+  <p><strong>Author:</strong> {{ book.author }}</p>
+  <p><strong>Price:</strong> {{ book.price.toFixed(2) }}</p>
+  <p><strong>Description:</strong> {{ book.description }}</p>
+</div>
+<div *ngIf="!book">
+  <p>Book not found.</p>
+</div>
