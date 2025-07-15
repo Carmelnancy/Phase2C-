@@ -1,0 +1,57 @@
+<!-- <app-navbar></app-navbar>
+
+<div class="content-wrapper">
+    <h3 class="mb-3">My Audit History</h3>
+
+  <table class="table table-bordered table-striped">
+    <thead class="table-dark">
+      <tr>
+        <th>Audit ID</th>
+        <th>Asset ID</th>
+        <th>Status</th>
+        <th>Audit Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let audit of audits">
+        <td>{{ audit.auditRequestId }}</td>
+        <td>{{ audit.assetId }}</td>
+        <td>{{ audit.status }}</td>
+        <td>{{ audit.auditDate | date }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div> -->
+
+<app-navbar></app-navbar>
+
+<div class="content-wrapper">
+   <div class="d-flex justify-content-between align-items-center mb-3">
+    <h4 class="mb-0">My Audit History</h4>
+  </div>
+  <div class="card">
+    <div class="card-header text-dark" style="background-color: #e8f3e0;">
+      <h5 class="mb-0">Audit History</h5>
+    </div>
+    <div class="card-body p-0">
+      <table class="table table-bordered mb-0">
+        <thead class="table-light">
+          <tr>
+            <th>Audit ID</th>
+            <th>Asset ID</th>
+            <th>Status</th>
+            <th>Audit Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let audit of audits">
+            <td>{{ audit.auditRequestId }}</td>
+            <td>{{ audit.assetId }}</td>
+            <td>{{ audit.status }}</td>
+            <td>{{ audit.requestDate |  date: 'mediumDate' }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

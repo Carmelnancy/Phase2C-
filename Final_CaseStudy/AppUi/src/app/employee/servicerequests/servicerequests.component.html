@@ -1,0 +1,71 @@
+<app-navbar></app-navbar>
+
+<div class="content-wrapper">
+  <!-- Header + Toggle Button -->
+  <div class="d-flex justify-content-between align-items-center mb-3">
+    <h4 class="mb-0">My Service Requests</h4>
+    <button class="btn btn-warning" (click)="showForm = !showForm">
+      {{ showForm ? 'Cancel' : 'Raise Service Request' }}
+    </button>
+  </div>
+
+  <!-- Raise Service Request Form -->
+  <div *ngIf="showForm" class="card p-3 mb-4">
+    <form (ngSubmit)="submitServiceRequest()" #serviceForm="ngForm">
+      <!-- Asset ID -->
+      <div class="form-group mb-3">
+        <label>Asset ID</label>
+        <input type="number" class="form-control" [(ngModel)]="newRequest.assetId" name="assetId" required />
+      </div>
+
+      <!-- Description -->
+      <div class="form-group mb-3">
+        <label>Description</label>
+        <input type="text" class="form-control" [(ngModel)]="newRequest.description" name="description" required />
+      </div>
+
+      <!-- Issue Type -->
+      <div class="form-group mb-4">
+        <label>Issue Type</label>
+        <select class="form-control" [(ngModel)]="newRequest.issueType" name="issueType" required>
+          <option value="">-- Select Issue Type --</option>
+          <option value="hardware">Hardware</option>
+          <option value="software">Software</option>
+          <option value="other">Other</option>
+        </select>
+      </div>
+
+      <!-- Submit Button -->
+      <button type="submit" class="btn btn-primary" [disabled]="!serviceForm.form.valid">
+        Submit Service Request
+      </button>
+    </form>
+  </div>
+
+  <!-- Service Requests Table -->
+  <div class="card">
+    <div class="card-header text-dark" style="background-color: #f3e0ef;">
+      <h5 class="mb-0">Service Request History</h5>
+    </div>
+    <div class="card-body p-0">
+      <table class="table table-bordered mb-0">
+        <thead class="table-light">
+          <tr>
+            <th>Service ID</th>
+            <th>Asset ID</th>
+            <th>Status</th>
+            <th>Request Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let sr of serviceRequests">
+            <td>{{ sr.serviceRequestId }}</td>
+            <td>{{ sr.assetId }}</td>
+            <td>{{ sr.status }}</td>
+            <td>{{ sr.requestDate | date }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

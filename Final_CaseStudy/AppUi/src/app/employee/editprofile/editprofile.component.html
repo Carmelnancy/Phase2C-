@@ -1,0 +1,30 @@
+<div class="content-wrapper">
+  <h3 class="mb-3">Edit Profile</h3>
+
+  <form (ngSubmit)="updateProfile()">
+    <div class="form-group mb-3">
+      <label>Name</label>
+      <input class="form-control" [(ngModel)]="employee.name" name="name" required />
+    </div>
+    <div class="form-group mb-3">
+      <label>Email</label>
+      <input class="form-control" [(ngModel)]="employee.email" name="email" required />
+    </div>
+    <div class="form-group mb-3">
+      <label>Contact Number</label>
+      <input class="form-control" [(ngModel)]="employee.contactNumber" name="contactNumber" required />
+    </div>
+    <div class="form-group mb-3">
+      <label>Address</label>
+      <input class="form-control" [(ngModel)]="employee.address" name="address" required />
+    </div>
+
+    <button class="btn btn-success" type="submit">Update</button>
+    <button class="btn btn-secondary ms-2" type="button" (click)="goBack()">Cancel</button>
+
+  </form>
+
+  <div *ngIf="successMessage" class="alert alert-success mt-3">{{ successMessage }}</div>
+  <div *ngIf="errorMessage" class="alert alert-danger mt-3">{{ errorMessage }}</div>
+</div>
+

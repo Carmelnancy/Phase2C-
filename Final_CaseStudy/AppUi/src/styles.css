@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #E0E0F3 !important; /* ✅ Force dark background */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+app-root {
+  height: 100%;
+}
+
+.content-wrapper {
+  background-color: white;
+  margin: 30px auto;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  max-width: 1200px;
+}

@@ -1,0 +1,61 @@
+<app-navbar></app-navbar>
+
+<div class="content-wrapper">
+  <!-- Header + Toggle Button -->
+  <div class="d-flex justify-content-between align-items-center mb-3">
+    <h4 class="mb-0">My Asset Requests</h4>
+    <button class="btn btn-warning" (click)="showForm = !showForm">
+      {{ showForm ? 'Cancel' : 'Raise New Request' }}
+    </button>
+  </div>
+
+  <!-- Raise New Request Form -->
+  <div *ngIf="showForm" class="card p-3 mb-4">
+    <form (ngSubmit)="submitRequest()" #requestForm="ngForm">
+      <div class="form-group mb-3">
+        <label>Asset ID</label>
+        <input
+          type="number"
+          class="form-control"
+          [(ngModel)]="newRequest.assetId"
+          name="assetId"
+          required
+        />
+      </div>
+      <button
+        type="submit"
+        class="btn btn-primary"
+        [disabled]="!requestForm.form.valid"
+      >
+        Submit Request
+      </button>
+    </form>
+  </div>
+
+  <!-- Requests Table -->
+  <div class="card">
+    <div class="card-header text-dark" style="background-color: #f3e0ef;">
+      <h5 class="mb-0">Request History</h5>
+    </div>
+    <div class="card-body p-0">
+      <table class="table table-bordered mb-0">
+        <thead class="table-light">
+          <tr>
+            <th>Request ID</th>
+            <th>Asset ID</th>
+            <th>Status</th>
+            <th>Request Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let req of myRequests">
+            <td>{{ req.requestId }}</td>
+            <td>{{ req.assetId }}</td>
+            <td>{{ req.status }}</td>
+            <td>{{ req.requestDate | date }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

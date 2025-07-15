@@ -1,0 +1,78 @@
+<app-navbar></app-navbar>
+
+<div class="content-wrapper">
+  <!-- Welcome Message -->
+  <div *ngIf="employee" class="mb-4">
+    <h4>Welcome, {{ employee.name }}</h4>
+    <p><strong>Email:</strong> {{ employee.email }}</p>
+    <p><strong>Contact:</strong> {{ employee.contactNumber }}</p>
+     <button class="btn btn-primary btn-sm me-2" (click)="editProfile()">Edit Profile</button>
+    <!-- <button class="btn btn-danger btn-sm" (click)="logout()">Logout</button> -->
+  </div>
+
+  <!-- Assigned Assets -->
+  <div class="card mb-4">
+    <div class="card-header text-dark" style="background-color: #f3e0ef;">
+      <h5 class="mb-0">Assets Assigned to You</h5>
+    </div>
+    <div class="card-body p-0">
+
+      <table class="table table-bordered mb-0">
+        <thead class="table-light">
+          <tr>
+            <th>Asset ID</th>
+            <th>Name</th>
+            <th>Status</th>
+            <th>Manufactured</th>
+            <th>Expires</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngIf="myAssets && myAssets.length === 0" >
+            <td colspan="5" class="alert alert-info" class="text-center">
+              No assets assigned yet.
+            </td>
+          </tr>
+          <tr *ngFor="let asset of myAssets">
+            <td>{{ asset.assetId }}</td>
+            <td>{{ asset.assetName }}</td>
+            <td>{{ asset.status }}</td>
+            <td>{{ asset.manufacturingDate | date }}</td>
+            <td>{{ asset.expiryDate ? (asset.expiryDate | date) : '-' }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- All Available Assets -->
+  <div class="card">
+    <div class="card-header text-dark" style="background-color: #e8f3e0;">
+      <h5 class="mb-0">All Available Assets</h5>
+    </div>
+    <div class="card-body p-0">
+      <table class="table table-bordered mb-0">
+        <thead class="table-light">
+          <tr>
+            <th>Asset ID</th>
+            <th>Name</th>
+            <th>Quantity</th>
+            <th>Status</th>
+            <th>Manufactured</th>
+            <th>Expires</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let asset of allAssets">
+            <td>{{ asset.assetId }}</td>
+            <td>{{ asset.assetName }}</td>
+            <td>{{ asset.quantity }}</td>
+            <td>{{ asset.status }}</td>
+            <td>{{ asset.manufacturingDate | date }}</td>
+            <td>{{ asset.expiryDate ? (asset.expiryDate | date) : '-' }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
