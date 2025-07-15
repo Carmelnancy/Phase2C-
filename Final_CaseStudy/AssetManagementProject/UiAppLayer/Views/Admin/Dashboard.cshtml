@@ -1,0 +1,117 @@
+﻿@model UiAppLayer.Models.AdminDashboardViewModel
+
+<style>
+	body {
+		background-color: #e6e6fa; /* soft lavender */
+	}
+
+	.outer-container {
+		background-color: white;
+		border-radius: 20px;
+		padding: 30px;
+		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+		margin-top: 40px;
+	}
+
+	.card {
+		box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+		border: none;
+		border-radius: 12px;
+	}
+
+		.card .btn {
+			font-weight: 500;
+			border-radius: 6px;
+		}
+
+	.bg-employees {
+		background-color: #FBEF8F;
+	}
+
+	.bg-categories {
+		background-color: #FFF4D1;
+	}
+
+	.bg-assets {
+		background-color: #DDFFF8;
+	}
+
+	.bg-requests {
+		background-color: #EBECE6;
+	}
+
+	.bg-services {
+		background-color: #B8B8FF;
+	}
+
+	.bg-audits {
+		background-color: #F5ECCF;
+	}
+</style>
+
+<div class="container">
+	<div class="outer-container">
+		<h2>Admin Dashboard</h2>
+		<div class="row g-4">
+			<div class="col-md-4">
+				<div class="card bg-employees mb-3">
+					<div class="card-body">
+						<h5 class="card-title">Employees</h5>
+						<p class="card-text fs-3">@Model.EmployeeCount</p>
+						<a asp-route="EmployeeList" class="btn btn-dark btn-sm">View Employees</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card bg-categories mb-3">
+					<div class="card-body">
+						<h5 class="card-title">Asset Categories</h5>
+						<p class="card-text fs-3">@Model.CategoryCount</p>
+						<a asp-route="AssetCategoryIndex" class="btn btn-dark btn-sm">View Categories</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card bg-assets mb-3">
+					<div class="card-body">
+						<h5 class="card-title">Assets</h5>
+						<p class="card-text fs-3">@Model.AssetCount</p>
+						<a asp-route="AssetIndex" class="btn btn-dark btn-sm">View Assets</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card bg-requests mb-3">
+					<div class="card-body">
+						<h5 class="card-title">Asset Requests</h5>
+						<p class="card-text fs-3">@Model.AssetRequestCount</p>
+						<a asp-route="AssetRequestList" class="btn btn-dark btn-sm">View Requests</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card bg-services mb-3">
+					<div class="card-body">
+						<h5 class="card-title">Service Requests</h5>
+						<p class="card-text fs-3">@Model.ServiceRequestCount</p>
+						<a asp-route="ServiceRequestList" class="btn btn-dark btn-sm">View Services</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card bg-audits mb-3">
+					<div class="card-body">
+						<h5 class="card-title">Audit Requests</h5>
+						<p class="card-text fs-3">@Model.AuditRequestCount</p>
+						<a asp-route="AuditRequestList" class="btn btn-dark btn-sm">View Audits</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

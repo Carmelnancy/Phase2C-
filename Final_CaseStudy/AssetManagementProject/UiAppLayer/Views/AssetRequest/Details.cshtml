@@ -1,0 +1,46 @@
+﻿@model UiAppLayer.Models.AssetRequest
+
+@{
+    ViewData["Title"] = "Asset Request Details";
+}
+
+<h2 class="mb-4">Asset Request Details</h2>
+
+@if (Model == null)
+{
+    <div class="alert alert-warning">No details available for this request.</div>
+}
+else
+{
+    <div class="card p-4 shadow-sm border">
+        <dl class="row">
+            <dt class="col-sm-3">Request ID</dt>
+            <dd class="col-sm-9">@Model.RequestId</dd>
+
+            <dt class="col-sm-3">Employee ID</dt>
+            <dd class="col-sm-9">@Model.EmployeeId</dd>
+
+            <dt class="col-sm-3">Asset ID</dt>
+            <dd class="col-sm-9">@Model.AssetId</dd>
+
+            <dt class="col-sm-3">Request Date</dt>
+            <dd class="col-sm-9">@Model.RequestDate.ToString("dd MMM yyyy")</dd>
+
+            <dt class="col-sm-3">Status</dt>
+            <dd class="col-sm-9">
+                @if (string.IsNullOrEmpty(Model.Status))
+                {
+                    <span class="text-muted">Not specified</span>
+                }
+                else
+                {
+                    @Model.Status
+                }
+            </dd>
+        </dl>
+
+        <div class="mt-4">
+            <a asp-route="AssetRequestList" class="btn btn-secondary">← Back to List</a>
+        </div>
+    </div>
+}

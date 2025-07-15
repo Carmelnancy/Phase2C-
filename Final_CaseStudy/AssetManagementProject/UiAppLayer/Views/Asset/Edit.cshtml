@@ -1,0 +1,87 @@
+﻿@model UiAppLayer.Models.Asset
+
+@{
+    ViewData["Title"] = "Edit Asset";
+    
+}
+
+<h2 class="mb-4">Edit Asset</h2>
+
+<form asp-route="AssetEditPost" method="post">
+    <input type="hidden" asp-for="AssetId" />
+
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            <label asp-for="AssetNo" class="form-label"></label>
+            <input asp-for="AssetNo" class="form-control" />
+            <span asp-validation-for="AssetNo" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6 mb-3">
+            <label asp-for="AssetName" class="form-label"></label>
+            <input asp-for="AssetName" class="form-control" />
+            <span asp-validation-for="AssetName" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6 mb-3">
+            <label asp-for="AssetModel" class="form-label"></label>
+            <input asp-for="AssetModel" class="form-control" />
+            <span asp-validation-for="AssetModel" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6 mb-3">
+            <label asp-for="ManufacturingDate" class="form-label"></label>
+            <input asp-for="ManufacturingDate" type="date" class="form-control" />
+            <span asp-validation-for="ManufacturingDate" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6 mb-3">
+            <label asp-for="ExpiryDate" class="form-label"></label>
+            <input asp-for="ExpiryDate" type="date" class="form-control" />
+            <span asp-validation-for="ExpiryDate" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6 mb-3">
+            <label asp-for="AssetValue" class="form-label"></label>
+            <input asp-for="AssetValue" class="form-control" />
+            <span asp-validation-for="AssetValue" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6 mb-3">
+            <label asp-for="Status" class="form-label"></label>
+            <input asp-for="Status" class="form-control" />
+            <span asp-validation-for="Status" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6 mb-3">
+            <label asp-for="CategoryId" class="form-label"></label>
+            <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.CategoryList">
+                <option value="">-- Select Category --</option>
+            </select>
+            <span asp-validation-for="CategoryId" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6 mb-3">
+            <label asp-for="EmployeeId" class="form-label"></label>
+            <select asp-for="EmployeeId" class="form-control" asp-items="ViewBag.EmployeeList">
+                <option value="">-- Select Employee --</option>
+            </select>
+            <span asp-validation-for="EmployeeId" class="text-danger"></span>
+        </div>
+
+        <div class="col-md-6 mb-3">
+            <label asp-for="Quantity" class="form-label"></label>
+            <input asp-for="Quantity" class="form-control" />
+            <span asp-validation-for="Quantity" class="text-danger"></span>
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update Asset</button>
+    <a asp-route="AssetIndex" class="btn btn-secondary ms-2">Cancel</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

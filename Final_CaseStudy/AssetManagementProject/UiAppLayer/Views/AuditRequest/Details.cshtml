@@ -1,0 +1,28 @@
+﻿@model UiAppLayer.Models.AuditRequest
+
+@{
+    ViewData["Title"] = "Audit Request Details";
+}
+
+<h2 class="mb-4">Audit Request Details</h2>
+
+<div class="card shadow p-4">
+    <dl class="row">
+        <dt class="col-sm-4">Audit Request ID</dt>
+        <dd class="col-sm-8">@Model.AuditRequestId</dd>
+
+        <dt class="col-sm-4">Employee ID</dt>
+        <dd class="col-sm-8">@Model.EmployeeId</dd>
+
+        <dt class="col-sm-4">Asset ID</dt>
+        <dd class="col-sm-8">@Model.AssetId</dd>
+
+        <dt class="col-sm-4">Request Date</dt>
+        <dd class="col-sm-8">@Model.RequestDate.ToString("dd MMM yyyy")</dd>
+
+        <dt class="col-sm-4">Status</dt>
+        <dd class="col-sm-8">@Model.Status</dd>
+    </dl>
+
+    <a asp-route="AuditRequestList" class="btn btn-secondary mt-3">Back to List</a>
+</div>

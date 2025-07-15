@@ -1131,11 +1131,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CARMEL NANCY\\source\\repos\\MockDemoProjext\\ProTest\\StudentTests.csproj",
+      "projectUniqueName": "C:\\Phase2HexawareC#\\NUnit_CaseStudy\\MockDemoProjext\\ProTest\\StudentTests.csproj",
       "projectName": "StudentTests",
-      "projectPath": "C:\\Users\\CARMEL NANCY\\source\\repos\\MockDemoProjext\\ProTest\\StudentTests.csproj",
+      "projectPath": "C:\\Phase2HexawareC#\\NUnit_CaseStudy\\MockDemoProjext\\ProTest\\StudentTests.csproj",
       "packagesPath": "C:\\Users\\CARMEL NANCY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CARMEL NANCY\\source\\repos\\MockDemoProjext\\ProTest\\obj\\",
+      "outputPath": "C:\\Phase2HexawareC#\\NUnit_CaseStudy\\MockDemoProjext\\ProTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1156,8 +1156,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\CARMEL NANCY\\source\\repos\\MockDemoProjext\\ProDAL\\StudentDAL.csproj": {
-              "projectPath": "C:\\Users\\CARMEL NANCY\\source\\repos\\MockDemoProjext\\ProDAL\\StudentDAL.csproj"
+            "C:\\Phase2HexawareC#\\NUnit_CaseStudy\\MockDemoProjext\\ProDAL\\StudentDAL.csproj": {
+              "projectPath": "C:\\Phase2HexawareC#\\NUnit_CaseStudy\\MockDemoProjext\\ProDAL\\StudentDAL.csproj"
             }
           }
         }

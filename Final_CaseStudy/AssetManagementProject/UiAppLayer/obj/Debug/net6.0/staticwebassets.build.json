@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hHw5chgQB5aaQKsOM8emupDZf3jgDdTuRv29sU5miDg=",
+  "Source": "UiAppLayer",
+  "BasePath": "_content/UiAppLayer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8696711C-7AE5-4518-AE7B-9329D32E6375}|UiAppLayer\\UiAppLayer.csproj|c:\\users\\carmel nancy\\source\\repos\\assetmanagementproject\\uiapplayer\\views\\servicerequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8696711C-7AE5-4518-AE7B-9329D32E6375}|UiAppLayer\\UiAppLayer.csproj|solutionrelative:uiapplayer\\views\\servicerequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8696711C-7AE5-4518-AE7B-9329D32E6375}|UiAppLayer\\UiAppLayer.csproj|c:\\users\\carmel nancy\\source\\repos\\assetmanagementproject\\uiapplayer\\views\\employee\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8696711C-7AE5-4518-AE7B-9329D32E6375}|UiAppLayer\\UiAppLayer.csproj|solutionrelative:uiapplayer\\views\\employee\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8696711C-7AE5-4518-AE7B-9329D32E6375}|UiAppLayer\\UiAppLayer.csproj|c:\\users\\carmel nancy\\source\\repos\\assetmanagementproject\\uiapplayer\\views\\auditrequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8696711C-7AE5-4518-AE7B-9329D32E6375}|UiAppLayer\\UiAppLayer.csproj|solutionrelative:uiapplayer\\views\\auditrequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8696711C-7AE5-4518-AE7B-9329D32E6375}|UiAppLayer\\UiAppLayer.csproj|c:\\users\\carmel nancy\\source\\repos\\assetmanagementproject\\uiapplayer\\views\\assetrequest\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8696711C-7AE5-4518-AE7B-9329D32E6375}|UiAppLayer\\UiAppLayer.csproj|solutionrelative:uiapplayer\\views\\assetrequest\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8696711C-7AE5-4518-AE7B-9329D32E6375}|UiAppLayer\\UiAppLayer.csproj|c:\\users\\carmel nancy\\source\\repos\\assetmanagementproject\\uiapplayer\\views\\assetcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8696711C-7AE5-4518-AE7B-9329D32E6375}|UiAppLayer\\UiAppLayer.csproj|solutionrelative:uiapplayer\\views\\assetcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8696711C-7AE5-4518-AE7B-9329D32E6375}|UiAppLayer\\UiAppLayer.csproj|c:\\users\\carmel nancy\\source\\repos\\assetmanagementproject\\uiapplayer\\views\\asset\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8696711C-7AE5-4518-AE7B-9329D32E6375}|UiAppLayer\\UiAppLayer.csproj|solutionrelative:uiapplayer\\views\\asset\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8696711C-7AE5-4518-AE7B-9329D32E6375}|UiAppLayer\\UiAppLayer.csproj|c:\\users\\carmel nancy\\source\\repos\\assetmanagementproject\\uiapplayer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8696711C-7AE5-4518-AE7B-9329D32E6375}|UiAppLayer\\UiAppLayer.csproj|solutionrelative:uiapplayer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8696711C-7AE5-4518-AE7B-9329D32E6375}|UiAppLayer\\UiAppLayer.csproj|c:\\users\\carmel nancy\\source\\repos\\assetmanagementproject\\uiapplayer\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8696711C-7AE5-4518-AE7B-9329D32E6375}|UiAppLayer\\UiAppLayer.csproj|solutionrelative:uiapplayer\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F82271-D640-4A7F-BB61-29D592B7A158}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\carmel nancy\\source\\repos\\assetmanagementproject\\servicelayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F82271-D640-4A7F-BB61-29D592B7A158}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8696711C-7AE5-4518-AE7B-9329D32E6375}|UiAppLayer\\UiAppLayer.csproj|c:\\users\\carmel nancy\\source\\repos\\assetmanagementproject\\uiapplayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8696711C-7AE5-4518-AE7B-9329D32E6375}|UiAppLayer\\UiAppLayer.csproj|solutionrelative:uiapplayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F82271-D640-4A7F-BB61-29D592B7A158}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\carmel nancy\\source\\repos\\assetmanagementproject\\servicelayer\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F82271-D640-4A7F-BB61-29D592B7A158}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F82271-D640-4A7F-BB61-29D592B7A158}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\carmel nancy\\source\\repos\\assetmanagementproject\\servicelayer\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F82271-D640-4A7F-BB61-29D592B7A158}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\UiAppLayer\\Views\\ServiceRequest\\Index.cshtml",
+              "RelativeDocumentMoniker": "UiAppLayer\\Views\\ServiceRequest\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\UiAppLayer\\Views\\ServiceRequest\\Index.cshtml",
+              "RelativeToolTip": "UiAppLayer\\Views\\ServiceRequest\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T11:54:18.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\UiAppLayer\\Views\\Employee\\List.cshtml",
+              "RelativeDocumentMoniker": "UiAppLayer\\Views\\Employee\\List.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\UiAppLayer\\Views\\Employee\\List.cshtml",
+              "RelativeToolTip": "UiAppLayer\\Views\\Employee\\List.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T11:53:20.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\UiAppLayer\\Views\\AuditRequest\\Index.cshtml",
+              "RelativeDocumentMoniker": "UiAppLayer\\Views\\AuditRequest\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\UiAppLayer\\Views\\AuditRequest\\Index.cshtml",
+              "RelativeToolTip": "UiAppLayer\\Views\\AuditRequest\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T11:51:52.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\UiAppLayer\\Views\\AssetRequest\\List.cshtml",
+              "RelativeDocumentMoniker": "UiAppLayer\\Views\\AssetRequest\\List.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\UiAppLayer\\Views\\AssetRequest\\List.cshtml",
+              "RelativeToolTip": "UiAppLayer\\Views\\AssetRequest\\List.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T11:50:47.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\UiAppLayer\\Views\\AssetCategory\\Index.cshtml",
+              "RelativeDocumentMoniker": "UiAppLayer\\Views\\AssetCategory\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\UiAppLayer\\Views\\AssetCategory\\Index.cshtml",
+              "RelativeToolTip": "UiAppLayer\\Views\\AssetCategory\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T11:49:52.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\UiAppLayer\\Views\\Asset\\Index.cshtml",
+              "RelativeDocumentMoniker": "UiAppLayer\\Views\\Asset\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\UiAppLayer\\Views\\Asset\\Index.cshtml",
+              "RelativeToolTip": "UiAppLayer\\Views\\Asset\\Index.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAqwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T11:26:55.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\UiAppLayer\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "UiAppLayer\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\UiAppLayer\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "UiAppLayer\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T11:20:31.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\ServiceLayer\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\ServiceLayer\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ServiceLayer\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:17:20.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\ServiceLayer\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\ServiceLayer\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ServiceLayer\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:16:13.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\UiAppLayer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UiAppLayer\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\UiAppLayer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UiAppLayer\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T04:18:32.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\UiAppLayer\\Program.cs",
+              "RelativeDocumentMoniker": "UiAppLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\UiAppLayer\\Program.cs",
+              "RelativeToolTip": "UiAppLayer\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T17:00:49.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\ServiceLayer\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\CARMEL NANCY\\source\\repos\\AssetManagementProject\\ServiceLayer\\Program.cs",
+              "RelativeToolTip": "ServiceLayer\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T16:56:17.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

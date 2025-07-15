@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CARMEL NANCY\\source\\repos\\MockDemoProjext\\ProDAL\\StudentDAL.csproj",
+      "projectUniqueName": "C:\\Phase2HexawareC#\\NUnit_CaseStudy\\MockDemoProjext\\ProDAL\\StudentDAL.csproj",
       "projectName": "StudentDAL",
-      "projectPath": "C:\\Users\\CARMEL NANCY\\source\\repos\\MockDemoProjext\\ProDAL\\StudentDAL.csproj",
+      "projectPath": "C:\\Phase2HexawareC#\\NUnit_CaseStudy\\MockDemoProjext\\ProDAL\\StudentDAL.csproj",
       "packagesPath": "C:\\Users\\CARMEL NANCY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CARMEL NANCY\\source\\repos\\MockDemoProjext\\ProDAL\\obj\\",
+      "outputPath": "C:\\Phase2HexawareC#\\NUnit_CaseStudy\\MockDemoProjext\\ProDAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,48 @@
+﻿@model UiAppLayer.Models.ServiceRequest
+
+@{
+    ViewData["Title"] = "Service Request Details";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Service Request Details</h2>
+
+    <div class="card shadow p-4">
+        <table class="table table-bordered">
+            <tbody>
+                <tr>
+                    <th>Service Request ID</th>
+                    <td>@Model.ServiceRequestId</td>
+                </tr>
+                <tr>
+                    <th>Employee ID</th>
+                    <td>@Model.EmployeeId</td>
+                </tr>
+                <tr>
+                    <th>Asset ID</th>
+                    <td>@Model.AssetId</td>
+                </tr>
+                <tr>
+                    <th>Description</th>
+                    <td>@Model.Description</td>
+                </tr>
+                <tr>
+                    <th>Issue Type</th>
+                    <td>@Model.IssueType</td>
+                </tr>
+                <tr>
+                    <th>Request Date</th>
+                    <td>@Model.RequestDate.ToString("dd MMM yyyy")</td>
+                </tr>
+                <tr>
+                    <th>Status</th>
+                    <td>@Model.Status</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="mt-3">
+            <a asp-route="ServiceRequestList" class="btn btn-secondary">Back to List</a>
+        </div>
+    </div>
+</div>

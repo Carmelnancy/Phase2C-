@@ -1,0 +1,83 @@
+﻿@model IEnumerable<UiAppLayer.Models.Asset>
+
+@{
+    ViewData["Title"] = "Asset List";
+}
+
+<style>
+    .white-container {
+        background-color: white;
+        padding: 30px;
+        border-radius: 20px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        margin-top: 30px;
+    }
+
+    th.table-header {
+        background-color: #f3e0ef !important;
+        color: #000 !important;
+    }
+
+    .table-hover tbody tr:hover {
+        background-color: #f8f9fa;
+    }
+</style>
+
+<div class="container">
+    <div class="white-container">
+        <h2 class="mb-4">Asset List</h2>
+
+        <p>
+            <a asp-route="AssetCreate" class="btn btn-primary">Add New Asset</a>
+        </p>
+
+        <table class="table table-hover shadow-sm">
+            <thead>
+                <tr>
+                    <th class="table-header">Asset ID</th>
+                    <th class="table-header">Asset No</th>
+                    <th class="table-header">Asset Name</th>
+                    <th class="table-header">Model</th>
+                    <th class="table-header">Manufacturing Date</th>
+                    <th class="table-header">Expiry Date</th>
+                    <th class="table-header">Value</th>
+                    <th class="table-header">Status</th>
+                    <th class="table-header">Category ID</th>
+                    <th class="table-header">Quantity</th>
+                    <th class="table-header"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null && Model.Any())
+                {
+                    foreach (var asset in Model)
+                    {
+                        <tr>
+                            <td>@asset.AssetId</td>
+                            <td>@asset.AssetNo</td>
+                            <td>@asset.AssetName</td>
+                            <td>@asset.AssetModel</td>
+                            <td>@asset.ManufacturingDate.ToShortDateString()</td>
+                            <td>@asset.ExpiryDate.ToShortDateString()</td>
+                            <td>@asset.AssetValue</td>
+                            <td>@asset.Status</td>
+                            <td>@asset.CategoryId</td>
+                            <td>@asset.Quantity</td>
+                            <td>
+                                <a asp-route="AssetEdit" asp-route-id="@asset.AssetId" class="btn btn-success btn-sm">Edit</a>
+                                <a asp-route="AssetDetails" asp-route-id="@asset.AssetId" class="btn btn-info btn-sm">Details</a>
+                                <a asp-route="AssetDelete" asp-route-id="@asset.AssetId" class="btn btn-danger btn-sm">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="11" class="text-center text-muted">No assets found.</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

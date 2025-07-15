@@ -1,0 +1,23 @@
+﻿@model UiAppLayer.Models.AuditRequest
+
+@{
+    ViewData["Title"] = "Update Audit Status";
+}
+
+<h2 class="mb-4">Update Audit Status</h2>
+
+<form asp-action="EditStatus" method="post">
+    <input type="hidden" asp-for="AuditRequestId" />
+
+    <div class="form-group mb-3">
+        <label asp-for="Status" class="form-label">New Status</label>
+        <select class="form-control" name="status">
+            <option value="Completed">Completed</option>
+            <option value="Pending">Pending</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+    <a asp-route="AuditRequestList" class="btn btn-secondary ms-2">Cancel</a>
+</form>
+
